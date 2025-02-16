@@ -2000,22 +2000,12 @@
     "priceUA": "15$ на місяць"
   },
   {
-    "name": "NeuroCoach",
-    "typeEN": "Education",
-    "typeUA": "Навчання",
-    "descriptionEN": "Personal AI mentor for skill development.",
-    "descriptionUA": "Персональний ШІ-наставник для розвитку навичок.",
-    "link": "https://neurocoach.com/",
-    "priceEN": "$12 per month",
-    "priceUA": "12$ на місяць"
-  },
-  {
     "name": "AI Interviewer",
     "typeEN": "HR",
     "typeUA": "HR",
     "descriptionEN": "Helps prepare for interviews and analyzes responses.",
     "descriptionUA": "Допомагає готуватися до співбесід та аналізує відповіді.",
-    "link": "https://aiinterviewer.com/",
+    "link": "https://neurosketch.ai/",
     "priceEN": "$10 per month",
     "priceUA": "10$ на місяць"
   },
@@ -2025,7 +2015,7 @@
     "typeUA": "Біотехнології",
     "descriptionEN": "Helps in DNA analysis and bi-material synthesis.",
     "descriptionUA": "Допомагає в аналізі ДНК та синтезі біоматеріалів.",
-    "link": "https://biosynth.ai/",
+    "link": "https://aicompose.ai/",
     "priceEN": "$30 per month",
     "priceUA": "30$ на місяць"
   },
@@ -2035,7 +2025,7 @@
     "typeUA": "Маркетинг",
     "descriptionEN": "Creates effective advertising campaigns in minutes.",
     "descriptionUA": "Створює ефективні рекламні кампанії за лічені хвилини.",
-    "link": "https://aiadmaker.com/",
+    "link": "https://runwayml.com/",
     "priceEN": "$15 per month",
     "priceUA": "15$ на місяць"
   },
@@ -2045,7 +2035,7 @@
     "typeUA": "Генерація тексту",
     "descriptionEN": "Generates captivating stories based on input data.",
     "descriptionUA": "Генерує захоплюючі історії на основі введених даних.",
-    "link": "https://neuralstory.ai/",
+    "link": "https://rasa.com/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -2055,7 +2045,7 @@
     "typeUA": "Озвучка текстів",
     "descriptionEN": "Generates realistic voices for videos and podcasts.",
     "descriptionUA": "Генерує реалістичні голоси для відео та подкастів.",
-    "link": "https://synthvoice.ai/",
+    "link": "https://runwayml.com/gen2",
     "priceEN": "$10 per month",
     "priceUA": "10$ на місяць"
   },
@@ -2065,7 +2055,7 @@
     "typeUA": "Програмування",
     "descriptionEN": "Generates code based on functional descriptions.",
     "descriptionUA": "Генерує код на основі опису функціоналу.",
-    "link": "https://chatgpt.com/",
+    "link": "https://smarttranslate.com/",
     "priceEN": "$20 per month",
     "priceUA": "20$ на місяць"
   },
@@ -2075,7 +2065,7 @@
     "typeUA": "Аналіз настрою",
     "descriptionEN": "Recognizes emotions in text and voice.",
     "descriptionUA": "Розпізнає емоції в текстах та голосі.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.voicify.ai/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -2085,7 +2075,7 @@
     "typeUA": "Генерація обкладинок",
     "descriptionEN": "Creates unique covers for books, albums, and videos.",
     "descriptionUA": "Створює унікальні обкладинки для книг, альбомів та відео.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.copymatic.ai/",
     "priceEN": "$7 per month",
     "priceUA": "7$ на місяць"
   },
@@ -2095,7 +2085,7 @@
     "typeUA": "Генерація рецептів",
     "descriptionEN": "Creates unique recipes based on your preferences.",
     "descriptionUA": "Створює унікальні рецепти на основі ваших вподобань.",
-    "link": "https://chatgpt.com/",
+    "link": "https://play.ht/",
     "priceEN": "$5 per month",
     "priceUA": "5$ на місяць"
   },
@@ -2105,7 +2095,7 @@
     "typeUA": "Генерація зображень",
     "descriptionEN": "Generates unique portraits of people based on text.",
     "descriptionUA": "Генерує унікальні портрети людей на основі тексту.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.jasper.ai/",
     "priceEN": "$10 per month",
     "priceUA": "10$ на місяць"
   },
@@ -2115,7 +2105,7 @@
     "typeUA": "Юриспруденція",
     "descriptionEN": "Generates legal documents and analyzes contracts.",
     "descriptionUA": "Генерує юридичні документи та проводить аналіз контрактів.",
-    "link": "https://chatgpt.com/",
+    "link": "https://mubert.com/",
     "priceEN": "$20 per month",
     "priceUA": "20$ на місяць"
   },
@@ -2125,7 +2115,7 @@
     "typeUA": "Генерація зображень",
     "descriptionEN": "Transforms ideas into realistic drawings and concept art.",
     "descriptionUA": "Перетворює ідеї в реалістичні малюнки та концепт-арти.",
-    "link": "https://chatgpt.com/",
+    "link": "https://visualsynth.ai/",
     "priceEN": "$10 per month",
     "priceUA": "10$ на місяць"
   },
@@ -2135,7 +2125,7 @@
     "typeUA": "Безпека",
     "descriptionEN": "Detects fraudulent transactions and suspicious activity.",
     "descriptionUA": "Виявляє шахрайські транзакції та підозрілу активність.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.aipalette.com/",
     "priceEN": "$25 per month",
     "priceUA": "25$ на місяць"
   },
@@ -2145,7 +2135,7 @@
     "typeUA": "Навчання",
     "descriptionEN": "Personal AI assistant for self-education and development.",
     "descriptionUA": "Персональний ШІ-асистент для самоосвіти та розвитку.",
-    "link": "https://chatgpt.com/",
+    "link": "https://neuromind.ai/",
     "priceEN": "$10 per month",
     "priceUA": "10$ на місяць"
   },
@@ -2155,7 +2145,7 @@
     "typeUA": "Фінанси",
     "descriptionEN": "Generates market analytics and forecasts stock changes.",
     "descriptionUA": "Генерує аналітику ринку та прогнозує зміни акцій.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.yseop.com/",
     "priceEN": "$30 per month",
     "priceUA": "30$ на місяць"
   },
@@ -2165,7 +2155,7 @@
     "typeUA": "Документообіг",
     "descriptionEN": "Automates document creation, editing, and analysis.",
     "descriptionUA": "Автоматизує створення, редагування та аналіз документів.",
-    "link": "https://chatgpt.com/",
+    "link": "https://marketsense.ai/",
     "priceEN": "$15 per month",
     "priceUA": "15$ на місяць"
   },
@@ -2175,7 +2165,7 @@
     "typeUA": "Фітнес",
     "descriptionEN": "Generates personalized workout and nutrition plans.",
     "descriptionUA": "Генерує персоналізовані плани тренувань та харчування.",
-    "link": "https://chatgpt.com/",
+    "link": "https://ai.google/",
     "priceEN": "$10 per month",
     "priceUA": "10$ на місяць"
   },
@@ -2185,7 +2175,7 @@
     "typeUA": "Маркетинг",
     "descriptionEN": "Automates advertising and creates targeted campaigns.",
     "descriptionUA": "Автоматизує рекламу та створює таргетовані кампанії.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.flowgpt.com/",
     "priceEN": "$20 per month",
     "priceUA": "20$ на місяць"
   },
@@ -2195,7 +2185,7 @@
     "typeUA": "Редагування фото",
     "descriptionEN": "Automatically enhances image quality and removes defects.",
     "descriptionUA": "Автоматично покращує якість зображень та видаляє дефекти.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.frase.io/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -2205,7 +2195,7 @@
     "typeUA": "Переклад",
     "descriptionEN": "Instant text translation with contextual meaning analysis.",
     "descriptionUA": "Миттєвий переклад тексту з контекстним аналізом сенсу.",
-    "link": "https://chatgpt.com/",
+    "link": "https://peltarion.com/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -2215,7 +2205,7 @@
     "typeUA": "Генерація музики",
     "descriptionEN": "Creates unique beats and rhythms based on a given style.",
     "descriptionUA": "Створює унікальні біти та ритми на основі заданого стилю.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.adobe.com/sensei/generative-ai/firefly.html",
     "priceEN": "$15 per month",
     "priceUA": "15$ на місяць"
   },
@@ -2225,7 +2215,7 @@
     "typeUA": "Генерація тексту",
     "descriptionEN": "Automatically writes scripts for videos, movies, and commercials.",
     "descriptionUA": "Автоматично пише сценарії для відео, кіно та рекламних роликів.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.murph.ai/",
     "priceEN": "12$ per month",
     "priceUA": "12$ на місяць"
   },
@@ -2235,7 +2225,7 @@
     "typeUA": "Генерація зображень",
     "descriptionEN": "Creates digital art based on text prompts.",
     "descriptionUA": "Створює цифрове мистецтво на основі текстових запитів.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.anthropic.com/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -2245,7 +2235,7 @@
     "typeUA": "HR",
     "descriptionEN": "Generates professional resumes and cover letters.",
     "descriptionUA": "Генерує професійні резюме та мотиваційні листи.",
-    "link": "https://chatgpt.com/",
+    "link": "https://outgrow.co/",
     "priceEN": "7$ per month",
     "priceUA": "7$ на місяць"
   },
@@ -2255,7 +2245,7 @@
     "typeUA": "E-commerce",
     "descriptionEN": "Personalized product recommendations based on user behavior analysis.",
     "descriptionUA": "Персоналізовані рекомендації товарів на основі аналізу поведінки користувача.",
-    "link": "https://chatgpt.com/",
+    "link": "https://leonardo.ai/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -2265,7 +2255,7 @@
     "typeUA": "Генерація тексту",
     "descriptionEN": "Generates fantastic stories and novels based on user ideas.",
     "descriptionUA": "Генерує фантастичні історії та романи на основі ідей користувача.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.smartly.io/",
     "priceEN": "10$ per month",
     "priceUA": "10$ на місяць"
   },
@@ -2275,7 +2265,7 @@
     "typeUA": "Голосові технології",
     "descriptionEN": "Generates synthetic voices with natural sound.",
     "descriptionUA": "Генерує синтетичні голоси з натуральним звучанням.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.perplexity.ai/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -2285,7 +2275,7 @@
     "typeUA": "Редагування фото",
     "descriptionEN": "Improves the quality of old and blurry photos.",
     "descriptionUA": "Покращує якість старих та розмитих фотографій.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.storylab.ai/",
     "priceEN": "5$ per month",
     "priceUA": "5$ на місяць"
   },
@@ -2295,7 +2285,7 @@
     "typeUA": "Медіа",
     "descriptionEN": "Generates audio podcasts on given topics.",
     "descriptionUA": "Генерує аудіоподкасти за заданими темами.",
-    "link": "https://chatgpt.com/",
+    "link": "https://replit.com/",
     "priceEN": "10$ per month",
     "priceUA": "10$ на місяць"
   },
@@ -2305,7 +2295,7 @@
     "typeUA": "Генерація музики",
     "descriptionEN": "Generates synthesized melodies in real time.",
     "descriptionUA": "Генерує синтезовані мелодії в реальному часі.",
-    "link": "https://chatgpt.com/",
+    "link": "https://murf.ai/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -2315,7 +2305,7 @@
     "typeUA": "Автоматизація документації",
     "descriptionEN": "Generates, edits, and analyzes official documents.",
     "descriptionUA": "Генерує, редагує та аналізує офіційні документи.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.lobster.io/",
     "priceEN": "15$ per month",
     "priceUA": "15$ на місяць"
   },
@@ -2325,7 +2315,7 @@
     "typeUA": "Маркетинг",
     "descriptionEN": "Generates advertising banners and videos based on brand description.",
     "descriptionUA": "Генерує рекламні банери та відео на основі опису бренду.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.textcortex.com/",
     "priceEN": "20$ per month",
     "priceUA": "20$ на місяць"
   },
@@ -2335,7 +2325,7 @@
     "typeUA": "Фітнес",
     "descriptionEN": "Creates personalized workout programs.",
     "descriptionUA": "Розробляє індивідуальні тренувальні програми.",
-    "link": "https://chatgpt.com/",
+    "link": "https://clipdrop.co/",
     "priceEN": "10$ per month",
     "priceUA": "10$ на місяць"
   },
@@ -2345,7 +2335,7 @@
     "typeUA": "Аналіз даних",
     "descriptionEN": "Detects suspicious activity and fraud.",
     "descriptionUA": "Розпізнає підозрілу активність та шахрайство.",
-    "link": "https://chatgpt.com/",
+    "link": "https://grid.ai/",
     "priceEN": "25$ per month",
     "priceUA": "25$ на місяць"
   },
@@ -2355,7 +2345,7 @@
     "typeUA": "Планування",
     "descriptionEN": "Automatically optimizes your tasks and schedule.",
     "descriptionUA": "Автоматично оптимізує ваші завдання та графік.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.ai-art.tokyo/en/portrait/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -2365,7 +2355,7 @@
     "typeUA": "Навчання",
     "descriptionEN": "Personal tutor for learning various subjects.",
     "descriptionUA": "Розумний репетитор з адаптивними навчальними матеріалами.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.anthropic.com/claude",
     "priceEN": "15$ per month",
     "priceUA": "15$ на місяць"
   },
@@ -2375,7 +2365,7 @@
     "typeUA": "Рекрутинг",
     "descriptionEN": "Automates the hiring process and analyzes candidates.",
     "descriptionUA": "Автоматизує процес підбору персоналу та аналізує кандидатів.",
-    "link": "https://chatgpt.com/",
+    "link": "https://geniusbook.ai/",
     "priceEN": "30$ per month",
     "priceUA": "30$ на місяць"
   },
@@ -2385,7 +2375,7 @@
     "typeUA": "Аналітика",
     "descriptionEN": "Analyzes market trends and predicts future trends.",
     "descriptionUA": "Аналізує тенденції ринку та прогнозує тренди.",
-    "link": "https://chatgpt.com/",
+    "link": "https://reface.app/",
     "priceEN": "20$ per month",
     "priceUA": "20$ на місяць"
   },
@@ -2395,7 +2385,7 @@
     "typeUA": "Редагування фото",
     "descriptionEN": "Restores damaged or old photos.",
     "descriptionUA": "Відновлює пошкоджені або старі фотографії.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.copy.ai/",
     "priceEN": "5$ per month",
     "priceUA": "5$ на місяць"
   },
@@ -2405,7 +2395,7 @@
     "typeUA": "Мода",
     "descriptionEN": "Generates unique clothing styles and looks.",
     "descriptionUA": "Підбирає стильні образи за вашими параметрами.",
-    "link": "https://chatgpt.com/",
+    "link": "https://quillbot.com/",
     "priceEN": "Free",
     "priceUA": "7$ на місяць"
   },
@@ -2415,7 +2405,7 @@
     "typeUA": "Фінанси",
     "descriptionEN": "Helps manage finances and plan expenses.",
     "descriptionUA": "Допомагає вести фінансовий облік та планувати витрати.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.stockai.com/",
     "priceEN": "10$ per month",
     "priceUA": "10$ на місяць"
   },
@@ -2425,7 +2415,7 @@
     "typeUA": "Програмування",
     "descriptionEN": "Generates code and automatically fixes errors.",
     "descriptionUA": "Генерує код та автоматично виправляє помилки.",
-    "link": "https://chatgpt.com/",
+    "link": "https://synthportraits.ai/",
     "priceEN": "20$ per month",
     "priceUA": "20$ на місяць"
   },
@@ -2435,7 +2425,7 @@
     "typeUA": "Озвучка",
     "descriptionEN": "Generates professional voiceovers for videos.",
     "descriptionUA": "Генерує професійні голосові озвучки для відео.",
-    "link": "https://chatgpt.com/",
+    "link": "https://aitutorpro.com/",
     "priceEN": "12$ per month",
     "priceUA": "12$ на місяць"
   },
@@ -2445,7 +2435,7 @@
     "typeUA": "Кулінарія",
     "descriptionEN": "Generates unique recipes based on your ingredients.",
     "descriptionUA": "Генерує унікальні рецепти на основі ваших інгредієнтів.",
-    "link": "https://neurochef.ai/",
+    "link": "https://poe.com/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -2455,7 +2445,7 @@
     "typeUA": "Генерація тексту",
     "descriptionEN": "Creates short stories and fairy tales for children.",
     "descriptionUA": "Створює короткі історії та казки для дітей.",
-    "link": "https://chatgpt.com/",
+    "link": "https://wit.ai/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -2465,7 +2455,7 @@
     "typeUA": "Дизайн",
     "descriptionEN": "Generates architectural projects and interior designs.",
     "descriptionUA": "Генерує архітектурні проєкти та інтер’єрні рішення.",
-    "link": "https://chatgpt.com/",
+    "link": "https://deepwriter.ai/",
     "priceEN": "25$ per month",
     "priceUA": "25$ на місяць"
   },
@@ -2475,7 +2465,7 @@
     "typeUA": "Програмування",
     "descriptionEN": "Simplifies and optimizes complex code.",
     "descriptionUA": "Спрощує та оптимізує складний код.",
-    "link": "https://chatgpt.com/",
+    "link": "https://neurotext.ai/",
     "priceEN": "10$ per month",
     "priceUA": "10$ на місяць"
   },
@@ -2485,7 +2475,7 @@
     "typeUA": "HR",
     "descriptionEN": "Automatically creates the perfect resume for a job vacancy.",
     "descriptionUA": "Автоматично створює ідеальне резюме під вакансію.",
-    "link": "https://chatgpt.com/",
+    "link": "https://designs.ai/",
     "priceEN": "8$ per month",
     "priceUA": "8$ на місяць"
   },
@@ -2495,7 +2485,7 @@
     "typeUA": "Фінанси",
     "descriptionEN": "Predicts stock market trends using artificial intelligence.",
     "descriptionUA": "Прогнозує динаміку фондового ринку за допомогою штучного інтелекту.",
-    "link": "https://chatgpt.com/",
+    "link": "https://mindscript.ai/",
     "priceEN": "$30 per month",
     "priceUA": "30$ на місяць"
   },
@@ -2505,7 +2495,7 @@
     "typeUA": "HR",
     "descriptionEN": "Generates effective cover letters for resumes.",
     "descriptionUA": "Генерує ефективні супровідні листи для резюме.",
-    "link": "https://chatgpt.com/",
+    "link": "https://neurocolor.ai/",
     "priceEN": "$5 per month",
     "priceUA": "5$ на місяць"
   },
@@ -2515,7 +2505,7 @@
     "typeUA": "Домашні тварини",
     "descriptionEN": "Analyzes pets' behavior and provides care recommendations.",
     "descriptionUA": "Аналізує поведінку домашніх тварин та дає поради по догляду.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.clarifai.com/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -2525,7 +2515,7 @@
     "typeUA": "Дизайн",
     "descriptionEN": "Generates professional logos for companies and brands.",
     "descriptionUA": "Автоматично створює логотипи на основі опису бренду.",
-    "link": "https://chatgpt.com/",
+    "link": "https://sizle.ai/",
     "priceEN": "$15 per month",
     "priceUA": "Безкоштовно"
   },
@@ -2535,7 +2525,7 @@
     "typeUA": "Мода",
     "descriptionEN": "Suggests clothing based on trends and personal style.",
     "descriptionUA": "Підбирає одяг відповідно до трендів і особистого стилю.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.medeanalytics.com/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -2545,7 +2535,7 @@
     "typeUA": "Медіа",
     "descriptionEN": "Cuts and edits videos using AI.",
     "descriptionUA": "Розрізає та монтує відео за допомогою ІІ.",
-    "link": "https://chatgpt.com/",
+    "link": "https://replika.ai/",
     "priceEN": "$10 per month",
     "priceUA": "10$ на місяць"
   },
@@ -2555,7 +2545,7 @@
     "typeUA": "Музика",
     "descriptionEN": "Generates song lyrics based on a chosen style.",
     "descriptionUA": "Генерує тексти пісень на основі обраного стилю.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.deepbrain.io/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -2565,7 +2555,7 @@
     "typeUA": "Дизайн",
     "descriptionEN": "Provides interior design ideas based on your preferences.",
     "descriptionUA": "Пропонує ідеї для інтер’єру на основі ваших уподобань.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.scribbr.com/",
     "priceEN": "$20 per month",
     "priceUA": "20$ на місяць"
   },
@@ -2575,7 +2565,7 @@
     "typeUA": "Бізнес",
     "descriptionEN": "Automatically generates business plans.",
     "descriptionUA": "Автоматично генерує бізнес-плани.",
-    "link": "https://chatgpt.com/",
+    "link": "https://gamegen.ai/",
     "priceEN": "$30 per month",
     "priceUA": "30$ на місяць"
   },
@@ -2585,7 +2575,7 @@
     "typeUA": "Граматика",
     "descriptionEN": "Checks grammar and writing style.",
     "descriptionUA": "Перевіряє граматику та стилістику тексту.",
-    "link": "https://chatgpt.com/",
+    "link": "https://fireflies.ai/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -2595,7 +2585,7 @@
     "typeUA": "Бізнес",
     "descriptionEN": "Creates professional presentations based on entered data.",
     "descriptionUA": "Створює професійні презентації на основі введених даних.",
-    "link": "https://chatgpt.com/",
+    "link": "https://dream.ai/",
     "priceEN": "$10 per month",
     "priceUA": "10$ на місяць"
   },
@@ -2605,7 +2595,7 @@
     "typeUA": "Медицина",
     "descriptionEN": "Analyzes symptoms and provides health recommendations.",
     "descriptionUA": "Аналізує симптоми та надає рекомендації щодо здоров'я.",
-    "link": "https://chatgpt.com/",
+    "link": "https://soundraw.io/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -2615,7 +2605,7 @@
     "typeUA": "Продуктивність",
     "descriptionEN": "Helps manage time and tasks.",
     "descriptionUA": "Допомагає керувати часом та завданнями.",
-    "link": "https://chatgpt.com/",
+    "link": "https://chat.openai.com/",
     "priceEN": "$8 per month",
     "priceUA": "8$ на місяць"
   },
@@ -2625,7 +2615,7 @@
     "typeUA": "Садівництво",
     "descriptionEN": "Diagnoses plant health and provides care advice.",
     "descriptionUA": "Діагностує стан рослин та дає поради по догляду.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.heygen.com/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -2635,7 +2625,7 @@
     "typeUA": "Бізнес",
     "descriptionEN": "Automates writing and responding to emails.",
     "descriptionUA": "Автоматизує написання та відповіді на листи.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.sly.ai/",
     "priceEN": "$9 per month",
     "priceUA": "9$ на місяць"
   },
@@ -2645,7 +2635,7 @@
     "typeUA": "Редагування фото",
     "descriptionEN": "Colorizes black-and-white photos.",
     "descriptionUA": "Розфарбовує чорно-білі фотографії.",
-    "link": "https://chatgpt.com/",
+    "link": "https://cleanup.pictures/",
     "priceEN": "$5 per month",
     "priceUA": "5$ на місяць"
   },
@@ -2655,7 +2645,7 @@
     "typeUA": "Кулінарія",
     "descriptionEN": "Converts recipes for various diets or restrictions (vegan, gluten-free, etc.).",
     "descriptionUA": "Конвертує рецепти для різних дієт або обмежень (веганство, безглютенове тощо).",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.codeium.com/",
     "priceEN": "$8 per month",
     "priceUA": "8$ на місяць"
   },
@@ -2665,7 +2655,7 @@
     "typeUA": "Психологія",
     "descriptionEN": "Analyzes mood from text messages and suggests self-help methods.",
     "descriptionUA": "Аналізує настрій за текстами повідомлень та пропонує методи самодопомоги.",
-    "link": "https://chatgpt.com/",
+    "link": "https://deepart.io/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -2675,7 +2665,7 @@
     "typeUA": "Медіа",
     "descriptionEN": "Generates video scripts based on a given topic.",
     "descriptionUA": "Генерує скрипти для відео на основі заданої теми.",
-    "link": "https://chatgpt.com/",
+    "link": "https://deepdreamgenerator.com/",
     "priceEN": "$15 per month",
     "priceUA": "15$ на місяць"
   },
@@ -2685,7 +2675,7 @@
     "typeUA": "Подорожі",
     "descriptionEN": "Accompanies you during travels, offering local recommendations and routes.",
     "descriptionUA": "Супроводжує вас під час подорожей, надаючи місцеві рекомендації та маршрути.",
-    "link": "https://chatgpt.com/",
+    "link": "https://bard.google.com/",
     "priceEN": "$10 per month",
     "priceUA": "10$ на місяць"
   },
@@ -2695,7 +2685,7 @@
     "typeUA": "Здоров'я",
     "descriptionEN": "Creates personalized workout plans based on your fitness level.",
     "descriptionUA": "Створює індивідуальні програми тренувань за вашим рівнем фізичної підготовки.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.podcastle.ai/",
     "priceEN": "$9 per month",
     "priceUA": "9$ на місяць"
   },
@@ -2705,7 +2695,7 @@
     "typeUA": "Здоров'я",
     "descriptionEN": "Tracks physical condition and provides health improvement tips.",
     "descriptionUA": "Відстежує фізичний стан і дає рекомендації щодо покращення здоров'я.",
-    "link": "https://chatgpt.com/",
+    "link": "https://dreamhouse.ai/",
     "priceEN": "$15 per month",
     "priceUA": "15$ на місяць"
   },
@@ -2715,7 +2705,7 @@
     "typeUA": "Продуктивність",
     "descriptionEN": "Helps plan your day and allocate time for important tasks.",
     "descriptionUA": "Допомагає планувати день та розподіляти час на важливі завдання.",
-    "link": "https://chatgpt.com/",
+    "link": "https://smartresume.com/",
     "priceEN": "$8 per month",
     "priceUA": "8$ на місяць"
   },
@@ -2725,7 +2715,7 @@
     "typeUA": "HR",
     "descriptionEN": "Generates professional resumes based on your career and skills.",
     "descriptionUA": "Генерує професійні резюме на основі вашої кар'єри та навичок.",
-    "link": "https://chatgpt.com/",
+    "link": "https://brandifyai.com/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -2735,7 +2725,7 @@
     "typeUA": "Освіта",
     "descriptionEN": "Helps learn new languages by answering questions and conducting interactive lessons.",
     "descriptionUA": "Допомагає вивчати нові мови, відповідаючи на запитання та проводячи інтерактивні заняття.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.beautiful.ai/",
     "priceEN": "$5 per month",
     "priceUA": "5$ на місяць"
   },
@@ -2745,7 +2735,7 @@
     "typeUA": "Музика",
     "descriptionEN": "Generates music for movies, advertisements, or personal projects.",
     "descriptionUA": "Генерує музику для фільмів, реклами або особистих проектів.",
-    "link": "https://chatgpt.com/",
+    "link": "https://play.aidungeon.io/",
     "priceEN": "$25 per month",
     "priceUA": "25$ на місяць"
   },
@@ -2755,7 +2745,7 @@
     "typeUA": "Мистецтво",
     "descriptionEN": "Creates paintings based on your preferences and style.",
     "descriptionUA": "Створює картини на основі ваших уподобань та стилю.",
-    "link": "https://chatgpt.com/",
+    "link": "https://imagemind.ai/",
     "priceEN": "$20 per month",
     "priceUA": "20$ на місяць"
   },
@@ -2765,7 +2755,7 @@
     "typeUA": "Генерація тексту",
     "descriptionEN": "Edits and improves your stories, offering suggestions for enhancement.",
     "descriptionUA": "Редагує та покращує ваші історії, пропонуючи варіанти вдосконалення.",
-    "link": "https://chatgpt.com/",
+    "link": "https://brain.fm/",
     "priceEN": "$10 per month",
     "priceUA": "10$ на місяць"
   },
@@ -2775,7 +2765,7 @@
     "typeUA": "Кулінарія",
     "descriptionEN": "Adds new ingredients to recipes to create unique dishes.",
     "descriptionUA": "Додає нові інгредієнти в рецепти для створення унікальних страв.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.magisto.com/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -2785,7 +2775,7 @@
     "typeUA": "Технології",
     "descriptionEN": "Digitizes documents and organizes electronic archives.",
     "descriptionUA": "Оцифровує документи та організує електронні архіви.",
-    "link": "https://chatgpt.com/",
+    "link": "https://pika.art/",
     "priceEN": "$10 per month",
     "priceUA": "10$ на місяць"
   },
@@ -2795,7 +2785,7 @@
     "typeUA": "Новини",
     "descriptionEN": "Quickly summarizes the most important news of the day.",
     "descriptionUA": "Швидко підсумовує найважливіші новини дня.",
-    "link": "https://chatgpt.com/",
+    "link": "https://crello.com/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -2805,7 +2795,7 @@
     "typeUA": "Освіта",
     "descriptionEN": "Assists with homework for students.",
     "descriptionUA": "Допомагає з виконанням домашніх завдань для учнів і студентів.",
-    "link": "https://chatgpt.com/",
+    "link": "https://elevenlabs.io/",
     "priceEN": "$5 per month",
     "priceUA": "5$ на місяць"
   },
@@ -2815,7 +2805,7 @@
     "typeUA": "Генерація тексту",
     "descriptionEN": "Generates captivating stories based on your ideas and requests.",
     "descriptionUA": "Генерує захоплюючі історії на основі ваших ідей та запитів.",
-    "link": "https://chatgpt.com/",
+    "link": "https://fireflies.ai/",
     "priceEN": "$15 per month",
     "priceUA": "15$ на місяць"
   },
@@ -2825,7 +2815,7 @@
     "typeUA": "Психологія",
     "descriptionEN": "Analyzes your dreams and provides interpretations based on psychological theories.",
     "descriptionUA": "Розшифровує сни за допомогою штучного інтелекту.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.scribehow.com/",
     "priceEN": "$7 per month",
     "priceUA": "7$ на місяць"
   },
@@ -2835,7 +2825,7 @@
     "typeUA": "Наука",
     "descriptionEN": "Predicts climate changes and weather conditions based on data from various sources.",
     "descriptionUA": "Прогнозує зміни клімату та погодні умови на основі даних з різних джерел.",
-    "link": "https://chatgpt.com/",
+    "link": "https://personagen.ai/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -2845,7 +2835,7 @@
     "typeUA": "Будівництво",
     "descriptionEN": "Assists in building design by creating plans and 3D models.",
     "descriptionUA": "Допомагає в проектуванні будівель, створюючи плани та 3D-моделі.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.frase.io/",
     "priceEN": "$25 per month",
     "priceUA": "25$ на місяць"
   },
@@ -2855,7 +2845,7 @@
     "typeUA": "Автомобілі",
     "descriptionEN": "Diagnoses car problems and offers repair recommendations.",
     "descriptionUA": "Діагностує проблеми з автомобілем та надає рекомендації для ремонту.",
-    "link": "https://chatgpt.com/",
+    "link": "https://pixray.gob.io/",
     "priceEN": "$15 per month",
     "priceUA": "15$ на місяць"
   },
@@ -2865,7 +2855,7 @@
     "typeUA": "Музика",
     "descriptionEN": "Generates nature sounds for meditation, relaxation, or background use.",
     "descriptionUA": "Генерує звуки природи для медитацій, релаксацій або для фону.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.jasper.ai/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -2875,7 +2865,7 @@
     "typeUA": "Освіта",
     "descriptionEN": "Creates concise and understandable summaries of books, helping save time.",
     "descriptionUA": "Створює короткі та зрозумілі резюме книг, допомагаючи з економією часу.",
-    "link": "https://chatgpt.com/",
+    "link": "https://gamma.app/",
     "priceEN": "$7 per month",
     "priceUA": "7$ на місяць"
   },
@@ -2885,7 +2875,7 @@
     "typeUA": "Мода",
     "descriptionEN": "Predicts future fashion trends based on global data.",
     "descriptionUA": "Прогнозує майбутні модні тренди на основі глобальних даних.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.synthesys.io/",
     "priceEN": "$10 per month",
     "priceUA": "10$ на місяць"
   },
@@ -2895,7 +2885,7 @@
     "typeUA": "Здоров'я",
     "descriptionEN": "Tracks mental and emotional well-being and suggests techniques for maintaining mental health.",
     "descriptionUA": "Відстежує психоемоційний стан і пропонує техніки для підтримки психічного здоров'я.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.remove.bg/",
     "priceEN": "$15 per month",
     "priceUA": "15$ на місяць"
   },
@@ -2905,7 +2895,7 @@
     "typeUA": "Садівництво",
     "descriptionEN": "Provides advice on plant care and gardening in general.",
     "descriptionUA": "Надає поради щодо догляду за рослинами та садівництва в цілому.",
-    "link": "https://chatgpt.com/",
+    "link": "https://hotpot.ai/",
     "priceEN": "$6 per month",
     "priceUA": "6$ на місяць"
   },
@@ -2915,7 +2905,7 @@
     "typeUA": "Бізнес",
     "descriptionEN": "Offers recommendations and strategies for startups and small businesses.",
     "descriptionUA": "Надає рекомендації та стратегії для стартапів і малих підприємств.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.veeva.com/",
     "priceEN": "$20 per month",
     "priceUA": "20$ на місяць"
   },
@@ -2925,7 +2915,7 @@
     "typeUA": "Мода",
     "descriptionEN": "Creates virtual fashion shows using artificial intelligence to generate models.",
     "descriptionUA": "Створює віртуальні модні покази, використовуючи штучний інтелект для генерування моделей.",
-    "link": "https://chatgpt.com/",
+    "link": "https://runwayml.com/",
     "priceEN": "$30 per month",
     "priceUA": "30$ на місяць"
   },
@@ -2935,7 +2925,7 @@
     "typeUA": "Технології",
     "descriptionEN": "Improves voice quality in recordings or during calls.",
     "descriptionUA": "Поліпшує якість голосу в записях або під час дзвінків.",
-    "link": "https://chatgpt.com/",
+    "link": "https://writesonic.com/",
     "priceEN": "$9 per month",
     "priceUA": "9$ на місяць"
   },
@@ -2945,7 +2935,7 @@
     "typeUA": "Освіта",
     "descriptionEN": "Helps improve memory through specialized exercises and training.",
     "descriptionUA": "Допомагає покращити пам'ять через спеціалізовані вправи та тренування.",
-    "link": "https://chatgpt.com/",
+    "link": "https://surferseo.com/",
     "priceEN": "$8 per month",
     "priceUA": "8$ на місяць"
   },
@@ -2955,7 +2945,7 @@
     "typeUA": "Бізнес",
     "descriptionEN": "Manages projects for freelancers, creating schedules and task execution strategies.",
     "descriptionUA": "Керує проектами для фрілансерів, створюючи графіки та стратегії виконання завдань.",
-    "link": "https://chatgpt.com/",
+    "link": "https://recipebot.com/",
     "priceEN": "$15 per month",
     "priceUA": "15$ на місяць"
   },
@@ -2965,7 +2955,7 @@
     "typeUA": "Маркетинг",
     "descriptionEN": "Generates content ideas that align with trends and audience interests.",
     "descriptionUA": "Генерує ідеї для контенту, що відповідає трендам та інтересам аудиторії.",
-    "link": "https://chatgpt.com/",
+    "link": "https://bard.google.com/",
     "priceEN": "$12 per month",
     "priceUA": "12$ на місяць"
   },
@@ -2975,7 +2965,7 @@
     "typeUA": "Фінанси",
     "descriptionEN": "Creates financial plans for personal savings and investments.",
     "descriptionUA": "Створює фінансові плани для особистих заощаджень та інвестицій.",
-    "link": "https://chatgpt.com/",
+    "link": "https://videomagic.ai/",
     "priceEN": "$20 per month",
     "priceUA": "20$ на місяць"
   },
@@ -2985,7 +2975,7 @@
     "typeUA": "Мода",
     "descriptionEN": "Creates unique shoe designs based on your preferences.",
     "descriptionUA": "Створює унікальні дизайни для взуття відповідно до ваших уподобань.",
-    "link": "https://chatgpt.com/",
+    "link": "https://murf.ai/",
     "priceEN": "$18 per month",
     "priceUA": "18$ на місяць"
   },
@@ -2995,7 +2985,7 @@
     "typeUA": "Освіта",
     "descriptionEN": "Provides historical facts, analyzes events, and offers context for various stages of history.",
     "descriptionUA": "Надає історичні факти, аналізує події та дає контекст до різних етапів історії.",
-    "link": "https://chatgpt.com/",
+    "link": "https://otter.ai/",
     "priceEN": "$6 per month",
     "priceUA": "6$ на місяць"
   },
@@ -3005,7 +2995,7 @@
     "typeUA": "Екологія",
     "descriptionEN": "Tracks and analyzes wildlife populations, helping with species conservation.",
     "descriptionUA": "Відстежує та аналізує популяції диких тварин, допомагаючи в збереженні видів.",
-    "link": "https://chatgpt.com/",
+    "link": "https://clarity.microsoft.com/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -3015,7 +3005,7 @@
     "typeUA": "HR",
     "descriptionEN": "Optimizes resumes for better chances of success in job searches.",
     "descriptionUA": "Оптимізує резюме для кращих шансів на успіх в пошуках роботи.",
-    "link": "https://chatgpt.com/",
+    "link": "https://artvision.ai/",
     "priceEN": "$8 per month",
     "priceUA": "8$ на місяць"
   },
@@ -3025,7 +3015,7 @@
     "typeUA": "Історія",
     "descriptionEN": "Allows you to visit different stages of history and interact with historical figures.",
     "descriptionUA": "Дозволяє відвідати різні етапи історії та взаємодіяти з персонажами минулого.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.rephrase.ai/",
     "priceEN": "$20 per month",
     "priceUA": "20$ на місяць"
   },
@@ -3035,7 +3025,7 @@
     "typeUA": "Здоров'я",
     "descriptionEN": "Provides recommendations for nutrition, workouts, and general health based on personal data.",
     "descriptionUA": "Надає рекомендації з харчування, тренувань і загального здоров'я на основі особистих даних.",
-    "link": "https://chatgpt.com/",
+    "link": "https://openai.com/dall-e",
     "priceEN": "$12 per month",
     "priceUA": "12$ на місяць"
   },
@@ -3045,7 +3035,7 @@
     "typeUA": "Психологія",
     "descriptionEN": "Predicts emotional states and gives advice for improving well-being.",
     "descriptionUA": "Прогнозує емоційний стан і дає рекомендації щодо покращення самопочуття.",
-    "link": "https://chatgpt.com/",
+    "link": "https://surferseo.com/",
     "priceEN": "$15 per month",
     "priceUA": "15$ на місяць"
   },
@@ -3055,7 +3045,7 @@
     "typeUA": "Наука",
     "descriptionEN": "Explores the universe, providing opportunities to study planets, stars, and galaxies.",
     "descriptionUA": "Досліджує Всесвіт, даючи можливість вивчати планети, зірки та галактики.",
-    "link": "https://chatgpt.com/",
+    "link": "https://piktochart.com/",
     "priceEN": "$25 per month",
     "priceUA": "25$ на місяць"
   },
@@ -3065,7 +3055,7 @@
     "typeUA": "Саморозвиток",
     "descriptionEN": "Provides personalized advice to achieve personal goals.",
     "descriptionUA": "Надає персоналізовані поради для досягнення особистих цілей.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.kaedim3d.com/",
     "priceEN": "$30 per month",
     "priceUA": "30$ на місяць"
   },
@@ -3075,7 +3065,7 @@
     "typeUA": "Маркетинг",
     "descriptionEN": "Generates unique names for new products or brands.",
     "descriptionUA": "Генерує унікальні імена для нових продуктів або брендів.",
-    "link": "https://chatgpt.com/",
+    "link": "https://deepsketch.com/",
     "priceEN": "$7 per month",
     "priceUA": "7$ на місяць"
   },
@@ -3085,7 +3075,7 @@
     "typeUA": "Медіа",
     "descriptionEN": "Creates professional audiobooks and narrations from text materials.",
     "descriptionUA": "Створює професійні аудіокниги та розповіді з текстових матеріалів.",
-    "link": "https://chatgpt.com/",
+    "link": "https://x.ai/",
     "priceEN": "$12 per month",
     "priceUA": "12$ на місяць"
   },
@@ -3095,7 +3085,7 @@
     "typeUA": "Бізнес",
     "descriptionEN": "Generates ideas for new startups based on trends and technological innovations.",
     "descriptionUA": "Генерує ідеї для нових стартапів на основі трендів та технологічних інновацій.",
-    "link": "https://chatgpt.com/",
+    "link": "https://github.com/features/copilot",
     "priceEN": "$18 per month",
     "priceUA": "18$ на місяць"
   },
@@ -3105,7 +3095,7 @@
     "typeUA": "Мови",
     "descriptionEN": "Assists with translations, considering context and cultural nuances.",
     "descriptionUA": "Допомагає з перекладами, враховуючи контекст та культурні особливості.",
-    "link": "https://chatgpt.com/",
+    "link": "https://legalmind.ai/",
     "priceEN": "$10 per month",
     "priceUA": "10$ на місяць"
   },
@@ -3115,7 +3105,7 @@
     "typeUA": "Музика",
     "descriptionEN": "Generates unique compositions for any event or mood.",
     "descriptionUA": "Генерує унікальні композиції для будь-якої події чи настрою.",
-    "link": "https://chatgpt.com/",
+    "link": "https://monkeylearn.com/",
     "priceEN": "$20 per month",
     "priceUA": "20$ на місяць"
   },
@@ -3125,7 +3115,7 @@
     "typeUA": "Шопінг",
     "descriptionEN": "Helps choose clothes and accessories based on your style and preferences.",
     "descriptionUA": "Допомагає вибирати одяг та аксесуари на основі вашого стилю та переваг.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.aigenerator.com/",
     "priceEN": "$15 per month",
     "priceUA": "15$ на місяць"
   },
@@ -3135,7 +3125,7 @@
     "typeUA": "Генерація зображень",
     "descriptionEN": "Generates original works of art based on text descriptions.",
     "descriptionUA": "AI для генерації мистецтва і створення картин за допомогою текстових запитів.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.synthesia.io/",
     "priceEN": "$8 per month",
     "priceUA": "Безкоштовно / від 8$ на місяць"
   },
@@ -3145,7 +3135,7 @@
     "typeUA": "Здоров'я",
     "descriptionEN": "Creates personalized workout plans for home or the gym.",
     "descriptionUA": "Створює персоналізовані плани тренувань для дому чи тренажерного залу.",
-    "link": "https://chatgpt.com/",
+    "link": "https://stockpredict.ai/",
     "priceEN": "$12 per month",
     "priceUA": "12$ на місяць"
   },
@@ -3155,7 +3145,7 @@
     "typeUA": "Маркетинг",
     "descriptionEN": "Helps manage social media accounts, post content, and analyze effectiveness.",
     "descriptionUA": "Допомагає керувати акаунтами в соціальних мережах, публікує контент та аналізує ефективність.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.deepl.com/",
     "priceEN": "$15 per month",
     "priceUA": "15$ на місяць"
   },
@@ -3165,7 +3155,7 @@
     "typeUA": "Мистецтво",
     "descriptionEN": "Generates unique tattoo designs based on your requests.",
     "descriptionUA": "Генерує унікальні дизайни татуювань на основі ваших запитів.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.descript.com/",
     "priceEN": "$8 per month",
     "priceUA": "8$ на місяць"
   },
@@ -3175,7 +3165,7 @@
     "typeUA": "Фінанси",
     "descriptionEN": "Provides investment recommendations for stocks, cryptocurrencies, and other assets.",
     "descriptionUA": "Надає рекомендації для інвестування в акції, криптовалюти та інші активи.",
-    "link": "https://chatgpt.com/",
+    "link": "https://openai.com/chatgpt-business",
     "priceEN": "$25 per month",
     "priceUA": "25$ на місяць"
   },
@@ -3185,7 +3175,7 @@
     "typeUA": "Генерація тексту",
     "descriptionEN": "Creates personalized tales and stories for both children and adults.",
     "descriptionUA": "Створює персоналізовані казки та історії для дітей та дорослих.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.aipicasso.app/",
     "priceEN": "$6 per month",
     "priceUA": "6$ на місяць"
   },
@@ -3195,7 +3185,7 @@
     "typeUA": "Фотографія",
     "descriptionEN": "Provides advice on photography techniques and image processing.",
     "descriptionUA": "Надає поради щодо техніки фотографування та обробки зображень.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.slyce.it/",
     "priceEN": "$7 per month",
     "priceUA": "7$ на місяць"
   },
@@ -3205,7 +3195,7 @@
     "typeUA": "Мови",
     "descriptionEN": "Helps learn new languages by providing interactive exercises and recommendations.",
     "descriptionUA": "Допомагає вивчати нові мови, надаючи інтерактивні вправи та рекомендації.",
-    "link": "https://chatgpt.com/",
+    "link": "https://deepfake-lab.com/",
     "priceEN": "$10 per month",
     "priceUA": "10$ на місяць"
   },
@@ -3215,7 +3205,7 @@
     "typeUA": "Програмування",
     "descriptionEN": "Checks code for errors and optimizations, and provides improvement suggestions.",
     "descriptionUA": "Перевіряє код на наявність помилок і оптимізацій, а також надає поради для поліпшення.",
-    "link": "https://chatgpt.com/",
+    "link": "https://aimelody.com/",
     "priceEN": "$12 per month",
     "priceUA": "12$ на місяць"
   },
@@ -3225,7 +3215,7 @@
     "typeUA": "Продуктивність",
     "descriptionEN": "Analyzes your time and helps optimize task distribution.",
     "descriptionUA": "Аналізує ваш час і допомагає оптимізувати розподіл завдань.",
-    "link": "https://chatgpt.com/",
+    "link": "https://ainarrator.com/",
     "priceEN": "$15 per month",
     "priceUA": "15$ на місяць"
   },
@@ -3235,7 +3225,7 @@
     "typeUA": "Продуктивність",
     "descriptionEN": "Helps create and send professional emails.",
     "descriptionUA": "Допомагає створювати і відправляти професійні електронні листи.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.kaiber.ai/",
     "priceEN": "$8 per month",
     "priceUA": "8$ на місяць"
   },
@@ -3245,7 +3235,7 @@
     "typeUA": "Генерація тексту",
     "descriptionEN": "Helps improve writing by offering synonyms and style enhancements.",
     "descriptionUA": "Допомагає покращити написання текстів, пропонуючи синоніми та покращення стилю.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.lifelapseapp.com/",
     "priceEN": "$9 per month",
     "priceUA": "9$ на місяць"
   },
@@ -3255,7 +3245,7 @@
     "typeUA": "Медіа",
     "descriptionEN": "Recommends movies and TV shows based on your preferences.",
     "descriptionUA": "Рекомендує фільми та серіали на основі ваших уподобань.",
-    "link": "https://chatgpt.com/",
+    "link": "https://codeforge.ai/",
     "priceEN": "$5 per month",
     "priceUA": "5$ на місяць"
   },
@@ -3265,7 +3255,7 @@
     "typeUA": "Мистецтво",
     "descriptionEN": "Creates original visual artworks based on your instructions.",
     "descriptionUA": "Створює оригінальні візуальні твори мистецтва на основі ваших інструкцій.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.veed.io/",
     "priceEN": "$15 per month",
     "priceUA": "15$ на місяць"
   },
@@ -3275,7 +3265,7 @@
     "typeUA": "Музика",
     "descriptionEN": "Generates unique musical compositions based on set parameters.",
     "descriptionUA": "Генерує унікальні музичні композиції на основі заданих параметрів.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.kaiber.ai/",
     "priceEN": "$20 per month",
     "priceUA": "20$ на місяць"
   },
@@ -3285,7 +3275,7 @@
     "typeUA": "Шопінг",
     "descriptionEN": "Helps find the best deals in online stores based on your queries.",
     "descriptionUA": "Допомагає знайти найкращі пропозиції в інтернет-магазинах на основі ваших запитів.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.aiva.ai/",
     "priceEN": "$10 per month",
     "priceUA": "10$ на місяць"
   },
@@ -3295,7 +3285,7 @@
     "typeUA": "Прогноз погоди",
     "descriptionEN": "Provides accurate weather forecasts considering all variables.",
     "descriptionUA": "Надає точні прогнози погоди з урахуванням всіх змінних.",
-    "link": "https://chatgpt.com/",
+    "link": "https://advantageai.com/",
     "priceEN": "$4 per month",
     "priceUA": "4$ на місяць"
   },
@@ -3305,7 +3295,7 @@
     "typeUA": "Кулінарія",
     "descriptionEN": "Helps choose ingredients and create recipes based on your preferences.",
     "descriptionUA": "Допомагає обирати інгредієнти та створювати рецепти за вашими уподобаннями.",
-    "link": "https://chatgpt.com/",
+    "link": "https://rytr.me/",
     "priceEN": "$6 per month",
     "priceUA": "6$ на місяць"
   },
@@ -3315,7 +3305,7 @@
     "typeUA": "Садівництво",
     "descriptionEN": "Creates plans for your garden, recommending plants and optimal placement.",
     "descriptionUA": "Створює плани для вашого саду, рекомендуючи рослини та оптимальне розташування.",
-    "link": "https://chatgpt.com/",
+    "link": "https://www.steve.ai/",
     "priceEN": "$15 per month",
     "priceUA": "15$ на місяць"
   },
@@ -3325,7 +3315,7 @@
     "typeUA": "Психологія",
     "descriptionEN": "Teaches meditation and relaxation through interactive sessions.",
     "descriptionUA": "Навчає медитації та релаксації через інтерактивні сесії.",
-    "link": "https://aimeditationcoach.com/",
+    "link": "https://huggingface.co/",
     "priceEN": "$8 per month",
     "priceUA": "8$ на місяць"
   },
@@ -3335,7 +3325,7 @@
     "typeUA": "Здоров'я",
     "descriptionEN": "Provides personalized diet plans to achieve healthy goals.",
     "descriptionUA": "Надає персоналізовані плани харчування для досягнення здорових цілей.",
-    "link": "https://aifoodassistant.com/",
+    "link": "https://www.designhill.com/tools/logo-maker",
     "priceEN": "$12 per month",
     "priceUA": "12$ на місяць"
   },
@@ -3345,7 +3335,7 @@
     "typeUA": "Мода",
     "descriptionEN": "Recommends stylish clothing and accessory combinations for various occasions.",
     "descriptionUA": "Рекомендує стильні комбінації одягу та аксесуарів для різних випадків.",
-    "link": "https://aivirtualstylist.com/",
+    "link": "https://jina.ai/",
     "priceEN": "$12 per month",
     "priceUA": "12$ на місяць"
   },
@@ -3355,7 +3345,7 @@
     "typeUA": "Освіта",
     "descriptionEN": "Helps with learning new topics by creating personalized study plans.",
     "descriptionUA": "Допомагає з вивченням нових тем, створюючи персоналізовані плани навчання.",
-    "link": "https://aistudyhelper.com/",
+    "link": "https://www.hourone.ai/",
     "priceEN": "$8 per month",
     "priceUA": "8$ на місяць"
   },
@@ -3365,7 +3355,7 @@
     "typeUA": "Кар'єра",
     "descriptionEN": "Teaches how to ace interviews with communication and behavioral tips.",
     "descriptionUA": "Навчає проходити співбесіди, даючи поради з комунікації та поведінки.",
-    "link": "https://aivirtualinterviewcoach.com/",
+    "link": "https://stablediffusionweb.com/",
     "priceEN": "$15 per month",
     "priceUA": "15$ на місяць"
   },
@@ -3375,7 +3365,7 @@
     "typeUA": "Розваги",
     "descriptionEN": "Helps find new hobbies that suit you.",
     "descriptionUA": "Допомагає знайти нові хобі, що підходять саме вам.",
-    "link": "https://aihobbyfinder.com/",
+    "link": "https://logobot.ai/",
     "priceEN": "$5 per month",
     "priceUA": "5$ на місяць"
   },
@@ -3385,7 +3375,7 @@
     "typeUA": "Саморозвиток",
     "descriptionEN": "Boosts your creativity with specialized exercises and ideas.",
     "descriptionUA": "Покращує вашу креативність через спеціалізовані вправи та ідеї.",
-    "link": "https://aicreativitybooster.com/",
+    "link": "https://ainewswriter.ai/",
     "priceEN": "$12 per month",
     "priceUA": "12$ на місяць"
   },
@@ -3395,7 +3385,7 @@
     "typeUA": "Продуктивність",
     "descriptionEN": "Automatically prioritizes tasks and provides recommendations for completing them.",
     "descriptionUA": "Автоматично визначає пріоритети завдань та надає рекомендації щодо їх виконання.",
-    "link": "https://aitaskmaster.com/",
+    "link": "https://www.tractian.com/",
     "priceEN": "$10 per month",
     "priceUA": "10$ на місяць"
   },
@@ -3405,7 +3395,7 @@
     "typeUA": "Мода",
     "descriptionEN": "Predicts future fashion trends, helping you prepare your wardrobe for upcoming seasons.",
     "descriptionUA": "Прогнозує майбутні тренди в моді, допомагаючи підготувати ваш гардероб до нових сезонів.",
-    "link": "https://aifashionforecast.com/",
+    "link": "https://dreamweaver.ai/",
     "priceEN": "$15 per month",
     "priceUA": "15$ на місяць"
   },
@@ -3415,7 +3405,7 @@
     "typeUA": "Здоров'я",
     "descriptionEN": "Analyzes sleep quality and offers personalized recommendations for improving rest.",
     "descriptionUA": "Аналізує якість сну та пропонує індивідуальні рекомендації для покращення відпочинку.",
-    "link": "https://aisleepanalyzer.com/",
+    "link": "https://www.tensorflow.org/",
     "priceEN": "$9 per month",
     "priceUA": "9$ на місяць"
   },
@@ -3425,7 +3415,7 @@
     "typeUA": "Генерація тексту",
     "descriptionEN": "Generates creative stories, poems, and other forms of literature upon request.",
     "descriptionUA": "Генерує творчі історії, вірші та інші види літератури за запитом.",
-    "link": "https://aicreativewriter.com/",
+    "link": "https://www.speechify.com/",
     "priceEN": "$12 per month",
     "priceUA": "12$ на місяць"
   },
@@ -3435,7 +3425,7 @@
     "typeUA": "Психологія",
     "descriptionEN": "Provides support on mental health issues and offers therapeutic exercises.",
     "descriptionUA": "Надає підтримку в питаннях психічного здоров'я та пропонує терапевтичні вправи.",
-    "link": "https://aimentalhealthadvisor.com/",
+    "link": "https://looka.com/",
     "priceEN": "$14 per month",
     "priceUA": "14$ на місяць"
   },
@@ -3445,7 +3435,7 @@
     "typeUA": "Переклад",
     "descriptionEN": "Provides accurate and fast translations of texts and dialogues between different languages.",
     "descriptionUA": "Надає точні та швидкі переклади текстів і діалогів між різними мовами.",
-    "link": "https://ailanguagetranslator.com/",
+    "link": "https://www.synthetik.ai/",
     "priceEN": "$5 per month",
     "priceUA": "5$ на місяць"
   },
@@ -3455,7 +3445,7 @@
     "typeUA": "Програмування",
     "descriptionEN": "Automatically improves code structure and quality for better readability and efficiency.",
     "descriptionUA": "Автоматично покращує структуру та якість коду для кращої читабельності та ефективності.",
-    "link": "https://aicoderefactorer.com/",
+    "link": "https://www.ampermusic.com/",
     "priceEN": "$15 per month",
     "priceUA": "15$ на місяць"
   },
@@ -3465,7 +3455,7 @@
     "typeUA": "Генерація тексту",
     "descriptionEN": "Generates original fairy tales, fables, and stories for children.",
     "descriptionUA": "Генерує інтерактивні історії та новели за вашими уподобаннями.",
-    "link": "https://aistoryteller.com/",
+    "link": "https://pictory.ai/",
     "priceEN": "$8 per month",
     "priceUA": "Безкоштовно"
   },
@@ -3475,7 +3465,7 @@
     "typeUA": "Продуктивність",
     "descriptionEN": "Organizes your day, helping manage tasks, reminders, and calendars.",
     "descriptionUA": "Організовує ваш день, допомагає з нагадуваннями та списками завдань.",
-    "link": "https://aipersonalassistant.com/",
+    "link": "https://www.lalal.ai/",
     "priceEN": "$12 per month",
     "priceUA": "15$ на місяць"
   },
@@ -3485,7 +3475,7 @@
     "typeUA": "Психологія",
     "descriptionEN": "Analyzes your emotions with AI and gives advice to improve your mood.",
     "descriptionUA": "Аналізує ваші емоції за допомогою штучного інтелекту та дає поради для поліпшення настрою.",
-    "link": "https://aimoodtracker.com/",
+    "link": "https://www.artbreeder.com/",
     "priceEN": "$7 per month",
     "priceUA": "7$ на місяць"
   },
@@ -3495,7 +3485,7 @@
     "typeUA": "Боти",
     "descriptionEN": "Creates intelligent chatbots for various business tasks.",
     "descriptionUA": "Створює інтелектуальних чат-ботів для різних бізнес-завдань.",
-    "link": "https://aicustomchatbot.com/",
+    "link": "https://trendanalyzer.ai/",
     "priceEN": "$18 per month",
     "priceUA": "18$ на місяць"
   },
@@ -3505,7 +3495,7 @@
     "typeUA": "Право",
     "descriptionEN": "Provides legal advice and helps with document preparation.",
     "descriptionUA": "Надає юридичні консультації та допомагає скласти документи.",
-    "link": "https://ailegaladvisor.com/",
+    "link": "https://hemingwayapp.com/",
     "priceEN": "$30 per month",
     "priceUA": "30$ на місяць"
   },
@@ -3515,7 +3505,7 @@
     "typeUA": "Дизайн",
     "descriptionEN": "Generates unique logos for brands and companies.",
     "descriptionUA": "Генерує унікальні логотипи для брендів та компаній.",
-    "link": "https://aicustomlogomaker.com/",
+    "link": "https://www.deepl.com/",
     "priceEN": "$12 per month",
     "priceUA": "12$ на місяць"
   },
@@ -3525,7 +3515,7 @@
     "typeUA": "Туризм",
     "descriptionEN": "Helps plan trips, recommends places to visit, and local restaurants.",
     "descriptionUA": "Допомагає спланувати поїздки, рекомендує місця для відвідування та місцеві ресторани.",
-    "link": "https://aitravelassistant.com/",
+    "link": "https://www.grammarly.com/",
     "priceEN": "$10 per month",
     "priceUA": "10$ на місяць"
   },
@@ -3535,7 +3525,7 @@
     "typeUA": "Мови",
     "descriptionEN": "Personal mentor for learning languages, with regular lessons and tests.",
     "descriptionUA": "Особистий наставник для вивчення мов, з регулярними заняттями та тестами.",
-    "link": "https://ailanguagementor.com/",
+    "link": "https://www.summarizebot.com/",
     "priceEN": "$8 per month",
     "priceUA": "8$ на місяць"
   },
@@ -3545,7 +3535,7 @@
     "typeUA": "Продуктивність",
     "descriptionEN": "Organizes your meetings and provides the optimal time for all participants.",
     "descriptionUA": "Організовує ваші зустрічі та надає оптимальний час для всіх учасників.",
-    "link": "https://aimeetingscheduler.com/",
+    "link": "https://surfan.com",
     "priceEN": "$5 per month",
     "priceUA": "5$ на місяць"
   },
@@ -3555,7 +3545,7 @@
     "typeUA": "Креативність",
     "descriptionEN": "Generates ideas for new projects, startups, and businesses.",
     "descriptionUA": "Генерує ідеї для нових проектів, стартапів та бізнесів.",
-    "link": "https://aiideagenerator.com/",
+    "link": "https://aicook.ai/",
     "priceEN": "$7 per month",
     "priceUA": "7$ на місяць"
   },
@@ -3565,7 +3555,7 @@
     "typeUA": "Мода",
     "descriptionEN": "Creates a personalized style based on your preferences and trend recommendations.",
     "descriptionUA": "Підбирає гардероб відповідно до вашого стилю, клімату та події.",
-    "link": "https://aipersonalstylist.com/",
+    "link": "https://www.poised.com/",
     "priceEN": "$15 per month",
     "priceUA": "Безкоштовно"
   },
@@ -3575,7 +3565,7 @@
     "typeUA": "Музика",
     "descriptionEN": "Creates original musical compositions based on your instructions.",
     "descriptionUA": "Створює оригінальні музичні композиції на основі ваших вказівок.",
-    "link": "https://aimusiccomposer.com/",
+    "link": "https://deepdreamgenerator.com/",
     "priceEN": "$20 per month",
     "priceUA": "20$ на місяць"
   },
@@ -3585,7 +3575,7 @@
     "typeUA": "Здоров'я",
     "descriptionEN": "Determines stress level and provides relaxation recommendations.",
     "descriptionUA": "Визначає рівень стресу та надає рекомендації для релаксації.",
-    "link": "https://aistressanalyzer.com/",
+    "link": "https://www.kuki.ai/",
     "priceEN": "$9 per month",
     "priceUA": "9$ на місяць"
   },
@@ -3595,7 +3585,7 @@
     "typeUA": "Геймінг",
     "descriptionEN": "Creates concepts for video games, including storyline, characters, and gameplay.",
     "descriptionUA": "Створює концепції для відеоігор, включаючи сюжет, персонажів і геймплей.",
-    "link": "https://aivideogamedesigner.com/",
+    "link": "https://aiinterior.com/",
     "priceEN": "$25 per month",
     "priceUA": "25$ на місяць"
   },
@@ -3605,7 +3595,7 @@
     "typeUA": "Продуктивність",
     "descriptionEN": "Provides a brief summary of your tasks, important events, and messages for the day.",
     "descriptionUA": "Надає короткий підсумок ваших завдань, важливих подій і повідомлень за день.",
-    "link": "https://aidailysummary.com/",
+    "link": "https://www.lalaland.ai/",
     "priceEN": "$6 per month",
     "priceUA": "6$ на місяць"
   },
@@ -3615,7 +3605,7 @@
     "typeUA": "Продуктивність",
     "descriptionEN": "Helps improve the structure and content of your emails for better impact.",
     "descriptionUA": "Допомагає покращити структуру та зміст ваших електронних листів для кращого впливу.",
-    "link": "https://aiemailoptimizer.com/",
+    "link": "https://storyboardai.com/",
     "priceEN": "$10 per month",
     "priceUA": "10$ на місяць"
   },
@@ -3625,7 +3615,7 @@
     "typeUA": "Медіа",
     "descriptionEN": "Automatically generates scripts for podcasts and produces audio files.",
     "descriptionUA": "Генерує скрипти для подкастів та допомагає записувати епізоди.",
-    "link": "https://aipodcastgenerator.com/",
+    "link": "https://zapier.com/",
     "priceEN": "$15 per month",
     "priceUA": "12$ на місяць"
   },
@@ -3635,7 +3625,7 @@
     "typeUA": "Здоров'я",
     "descriptionEN": "Generates personalized workout plans considering your physical capabilities and goals.",
     "descriptionUA": "Генерує персоналізовані плани тренувань, враховуючи ваші фізичні можливості та цілі.",
-    "link": "https://aicustomworkoutplanner.com/",
+    "link": "https://openai.com/dall-e-2/",
     "priceEN": "$12 per month",
     "priceUA": "12$ на місяць"
   },
@@ -3645,7 +3635,7 @@
     "typeUA": "Інтер'єр",
     "descriptionEN": "Suggests decoration ideas for your home based on your style and budget.",
     "descriptionUA": "Допомагає вибирати кольори та меблі для вашого дому на основі ваших вподобань.",
-    "link": "https://aihomedecoradvisor.com/",
+    "link": "https://hypervoice.com/",
     "priceEN": "$10 per month",
     "priceUA": "12$ на місяць"
   },
@@ -3655,7 +3645,7 @@
     "typeUA": "Навчання",
     "descriptionEN": "Helps improve public speaking skills with tips on pronunciation and intonation.",
     "descriptionUA": "Допомагає покращити навички публічних виступів, даючи поради щодо вимови та інтонації.",
-    "link": "https://aipublicspeakingcoach.com/",
+    "link": "https://scribe.ai/",
     "priceEN": "$20 per month",
     "priceUA": "20$ на місяць"
   },
@@ -3665,7 +3655,7 @@
     "typeUA": "Домашні тварини",
     "descriptionEN": "Provides care recommendations for your pets, from nutrition to health.",
     "descriptionUA": "Надає поради по догляду за домашніми тваринами, зокрема за здоров'ям.",
-    "link": "https://aipetcareadvisor.com/",
+    "link": "https://www.wordtune.com/",
     "priceEN": "$8 per month",
     "priceUA": "Безкоштовно"
   },
@@ -3675,7 +3665,7 @@
     "typeUA": "Фінанси",
     "descriptionEN": "Tracks travel expenses and helps stay within budget.",
     "descriptionUA": "Відстежує витрати під час подорожей та допомагає залишатися в межах бюджету.",
-    "link": "https://aitravelexpensetracker.com/",
+    "link": "https://scribblediffusion.com/",
     "priceEN": "$12 per month",
     "priceUA": "12$ на місяць"
   },
@@ -3685,7 +3675,7 @@
     "typeUA": "Навчання",
     "descriptionEN": "Teaches new languages through interactive conversations and exercises.",
     "descriptionUA": "Навчає новим мовам через інтерактивні розмови та вправи.",
-    "link": "https://ailanguagelearningpartner.com/",
+    "link": "https://www.scalenut.com/",
     "priceEN": "$10 per month",
     "priceUA": "10$ на місяць"
   },
@@ -3695,7 +3685,7 @@
     "typeUA": "Креативність",
     "descriptionEN": "Helps generate new ideas for businesses, projects, and creative tasks.",
     "descriptionUA": "Допомагає генерувати нові ідеї для бізнесів, проектів та креативних завдань.",
-    "link": "https://aibrainstormingassistant.com/",
+    "link": "https://beta.tome.app/",
     "priceEN": "$15 per month",
     "priceUA": "15$ на місяць"
   },
@@ -3705,7 +3695,7 @@
     "typeUA": "Саморозвиток",
     "descriptionEN": "Motivates you to achieve goals through positive reminders and tips.",
     "descriptionUA": "Мотивує на досягнення цілей за допомогою позитивних нагадувань і порад.",
-    "link": "https://aimotivationcoach.com/",
+    "link": "https://copydash.com/",
     "priceEN": "$5 per month",
     "priceUA": "5$ на місяць"
   },
@@ -3715,7 +3705,7 @@
     "typeUA": "Мода",
     "descriptionEN": "Creates unique clothing design concepts based on your preferences and instructions.",
     "descriptionUA": "Створює унікальні дизайн-концепти одягу за вашими вказівками та вподобаннями.",
-    "link": "https://aifashiondesigner.com/",
+    "link": "https://aifashion.com/",
     "priceEN": "$30 per month",
     "priceUA": "30$ на місяць"
   },
@@ -3725,7 +3715,7 @@
     "typeUA": "Здоров'я",
     "descriptionEN": "Helps practice mindfulness through meditation and relaxation exercises.",
     "descriptionUA": "Допомагає практикувати усвідомленість через медитації та релаксаційні вправи.",
-    "link": "https://aimindfulnesscoach.com/",
+    "link": "https://www.pexels.com/",
     "priceEN": "$10 per month",
     "priceUA": "10$ на місяць"
   },
@@ -3735,7 +3725,7 @@
     "typeUA": "Безпека",
     "descriptionEN": "Automatically monitors and moderates content on websites and platforms.",
     "descriptionUA": "Модерує контент, визначаючи шкідливі або неприязні матеріали.",
-    "link": "https://aicontentmoderator.com/",
+    "link": "https://autoresume.com/",
     "priceEN": "$15 per month",
     "priceUA": "9$ на місяць"
   },
@@ -3745,7 +3735,7 @@
     "typeUA": "Будівництво",
     "descriptionEN": "Generates building design projects based on your requirements and aesthetic preferences.",
     "descriptionUA": "Генерує дизайн проектів будівель на основі ваших вимог та естетичних вподобань.",
-    "link": "https://aiarchitectureassistant.com/",
+    "link": "https://www.bing.com/new",
     "priceEN": "$25 per month",
     "priceUA": "25$ на місяць"
   },
@@ -3755,7 +3745,7 @@
     "typeUA": "Маркетинг",
     "descriptionEN": "Helps create effective advertising texts and marketing campaigns.",
     "descriptionUA": "Допомагає створювати ефективні рекламні тексти та маркетингові кампанії.",
-    "link": "https://aicopywritingassistant.com/",
+    "link": "https://visionbot.ai/",
     "priceEN": "$20 per month",
     "priceUA": "20$ на місяць"
   },
@@ -3765,7 +3755,7 @@
     "typeUA": "Садівництво",
     "descriptionEN": "Provides advice on plant care, including watering, lighting, and fertilizing.",
     "descriptionUA": "Надає поради щодо догляду за рослинами, включаючи полив, освітлення та добрива.",
-    "link": "https://aivirtualgardener.com/",
+    "link": "https://www.midjourney.com/",
     "priceEN": "$7 per month",
     "priceUA": "7$ на місяць"
   },
@@ -3775,7 +3765,7 @@
     "typeUA": "Фінанси",
     "descriptionEN": "Helps create a budget and optimize expenses based on your financial goals.",
     "descriptionUA": "Допомагає скласти бюджет та оптимізувати витрати на основі ваших фінансових цілей.",
-    "link": "https://aibudgetplanner.com/",
+    "link": "https://www.fotor.com/",
     "priceEN": "$9 per month",
     "priceUA": "9$ на місяць"
   },
@@ -3785,7 +3775,7 @@
     "typeUA": "Освіта",
     "descriptionEN": "Personalized lessons in math, languages, and other subjects with AI support.",
     "descriptionUA": "Персоналізовані уроки з математики, мов та інших предметів з підтримкою штучного інтелекту.",
-    "link": "https://aivirtualtutor.com/",
+    "link": "https://aiblogwriter.com/",
     "priceEN": "$15 per month",
     "priceUA": "15$ на місяць"
   },
@@ -3795,7 +3785,7 @@
     "typeUA": "Мови",
     "descriptionEN": "Translates texts and documents from one language to another with high accuracy.",
     "descriptionUA": "Перекладає тексти і документи з однієї мови на іншу з високою точністю.",
-    "link": "https://aitranslationassistant.com/",
+    "link": "https://lex.page/",
     "priceEN": "$8 per month",
     "priceUA": "8$ на місяць"
   },
@@ -3805,7 +3795,7 @@
     "typeUA": "Продуктивність",
     "descriptionEN": "Helps teams work together by creating tasks and managing projects.",
     "descriptionUA": "Допомагає командам працювати разом, створюючи завдання та управляючи проектами.",
-    "link": "https://aiteamcollaborator.com/",
+    "link": "https://aiuxdesigner.com/",
     "priceEN": "$20 per month",
     "priceUA": "20$ на місяць"
   },
@@ -3815,7 +3805,7 @@
     "typeUA": "Креативність",
     "descriptionEN": "Generates ideas and concepts for your business or project.",
     "descriptionUA": "Генерує ідеї та концепти для вашого бізнесу або проекту.",
-    "link": "https://aibrainstormingbot.com/",
+    "link": "https://stockimg.ai/",
     "priceEN": "$10 per month",
     "priceUA": "10$ на місяць"
   },
@@ -3825,7 +3815,7 @@
     "typeUA": "Юридичні послуги",
     "descriptionEN": "Automatically creates and checks legal contracts based on specified parameters.",
     "descriptionUA": "Автоматично створює та перевіряє юридичні контракти на основі заданих параметрів.",
-    "link": "https://aicontractassistant.com/",
+    "link": "https://neural.love/",
     "priceEN": "$25 per month",
     "priceUA": "25$ на місяць"
   },
@@ -3835,7 +3825,7 @@
     "typeUA": "Аудіо",
     "descriptionEN": "Changes your voice in real-time to create various effects.",
     "descriptionUA": "Змінює ваш голос у реальному часі для створення різноманітних ефектів.",
-    "link": "https://aivoicemodulator.com/",
+    "link": "https://www.d-id.com/",
     "priceEN": "$5 per month",
     "priceUA": "5$ на місяць"
   },
@@ -3845,7 +3835,7 @@
     "typeUA": "Медіа",
     "descriptionEN": "Edits your podcasts, adding sound effects, music interludes, and improving audio quality.",
     "descriptionUA": "Редагує ваші подкасти, додаючи звукові ефекти, музичні інтерлюдії та покращуючи аудіо.",
-    "link": "https://aipodcasteditor.com/",
+    "link": "https://www.peppertype.ai/",
     "priceEN": "$12 per month",
     "priceUA": "12$ на місяць"
   },
@@ -3855,7 +3845,7 @@
     "typeUA": "Подорожі",
     "descriptionEN": "Suggests ideal routes and places to visit based on your preferences.",
     "descriptionUA": "Підбирає ідеальні маршрути та місця для відвідування залежно від ваших уподобань.",
-    "link": "https://aitravelguide.com/",
+    "link": "https://replicate.com/",
     "priceEN": "$15 per month",
     "priceUA": "15$ на місяць"
   },
@@ -3865,7 +3855,7 @@
     "typeUA": "Фінанси",
     "descriptionEN": "Provides recommendations for investments and financial strategies to achieve your goals.",
     "descriptionUA": "Надає рекомендації щодо інвестицій та фінансових стратегій для досягнення ваших цілей.",
-    "link": "https://aifinancialadvisor.com/",
+    "link": "https://tome.app/",
     "priceEN": "$30 per month",
     "priceUA": "30$ на місяць"
   },
@@ -3875,7 +3865,7 @@
     "typeUA": "Послуги",
     "descriptionEN": "Helps organize weddings by selecting venues, menus, and all event details.",
     "descriptionUA": "Допомагає в організації весіль, створюючи планування та надаючи ідеї для декору.",
-    "link": "https://aiweddingplanner.com/",
+    "link": "https://aipetcare.com/",
     "priceEN": "$50 per month",
     "priceUA": "25$ на місяць"
   },
@@ -3885,7 +3875,7 @@
     "typeUA": "Мови",
     "descriptionEN": "Improves your pronunciation in foreign languages by providing tips on pronunciation and intonation.",
     "descriptionUA": "Покращує вашу вимову в іноземних мовах, даючи рекомендації з вимови та інтонації.",
-    "link": "https://ailanguagepronunciationcoach.com/",
+    "link": "https://www.sudowrite.com/",
     "priceEN": "$10 per month",
     "priceUA": "10$ на місяць"
   },
@@ -3895,7 +3885,7 @@
     "typeUA": "Дизайн",
     "descriptionEN": "Creates custom designs for T-shirts and other clothing based on your ideas.",
     "descriptionUA": "Створює індивідуальні дизайни для футболок та іншого одягу на основі ваших ідей.",
-    "link": "https://aicustomtshirtdesign.com/",
+    "link": "https://soundgen.ai/",
     "priceEN": "$12 per month",
     "priceUA": "12$ на місяць"
   },
@@ -3905,7 +3895,7 @@
     "typeUA": "Медіа",
     "descriptionEN": "Provides brief summaries of important news across all areas of life.",
     "descriptionUA": "Надає короткі підсумки важливих новин з усіх сфер життя.",
-    "link": "https://ainewsdigest.com/",
+    "link": "https://www.typewise.app/",
     "priceEN": "$8 per month",
     "priceUA": "8$ на місяць"
   },
@@ -3915,7 +3905,7 @@
     "typeUA": "Техніка",
     "descriptionEN": "Automates your home by creating smart scenarios for various devices.",
     "descriptionUA": "Автоматизує ваш будинок за допомогою створення розумних сценаріїв для різних пристроїв.",
-    "link": "https://aihomeautomationplanner.com/",
+    "link": "https://scikit-learn.org/",
     "priceEN": "$18 per month",
     "priceUA": "18$ на місяць"
   },
@@ -3925,7 +3915,7 @@
     "typeUA": "Кар'єра",
     "descriptionEN": "Helps find jobs by matching vacancies to your experience and skills.",
     "descriptionUA": "Допомагає знайти роботу, підбираючи вакансії, які підходять вашому досвіду та навичкам.",
-    "link": "https://aijobfinder.com/",
+    "link": "https://www.notion.so/",
     "priceEN": "$10 per month",
     "priceUA": "10$ на місяць"
   },
@@ -3935,7 +3925,7 @@
     "typeUA": "Маркетинг",
     "descriptionEN": "Enhances text content using artificial intelligence, making it more attractive to the audience.",
     "descriptionUA": "Покращення текстового контенту за допомогою штучного інтелекту, роблячи його більш привабливим для аудиторії.",
-    "link": "https://aicontentenhancer.com/",
+    "link": "https://krisp.ai/",
     "priceEN": "$20 per month",
     "priceUA": "20$ на місяць"
   },
@@ -3945,7 +3935,7 @@
     "typeUA": "Здоров'я",
     "descriptionEN": "Helps improve pronunciation and learn various accents through regular training.",
     "descriptionUA": "Допомагає покращити вимову та освоїти різні акценти через регулярні тренування.",
-    "link": "https://aispeechtherapist.com/",
+    "link": "https://copysmith.ai/",
     "priceEN": "$25 per month",
     "priceUA": "25$ на місяць"
   },
@@ -3955,7 +3945,7 @@
     "typeUA": "Побутові послуги",
     "descriptionEN": "Provides step-by-step instructions for home projects and repairs.",
     "descriptionUA": "Пропонує покрокові інструкції для домашніх проєктів та ремонтних робіт.",
-    "link": "https://aidiassistant.com/",
+    "link": "https://www.framer.com/",
     "priceEN": "$10 per month",
     "priceUA": "10$ на місяць"
   },
@@ -3965,7 +3955,7 @@
     "typeUA": "Туризм",
     "descriptionEN": "A personal assistant for travelers, offering recommendations for restaurants, hotels, and tours.",
     "descriptionUA": "Індивідуальний помічник для мандрівників, що надає рекомендації щодо ресторанів, готелів та екскурсій.",
-    "link": "https://aivirtualconcierge.com/",
+    "link": "https://bigml.com/",
     "priceEN": "$12 per month",
     "priceUA": "12$ на місяць"
   },
@@ -3975,7 +3965,7 @@
     "typeUA": "Кулінарія",
     "descriptionEN": "Generates recipes based on available ingredients, considering dietary preferences and allergies.",
     "descriptionUA": "Генерує рецепти на основі доступних інгредієнтів та ваших уподобань.",
-    "link": "https://airecipegenerator.com/",
+    "link": "https://openai.com/chatgpt/",
     "priceEN": "$8 per month",
     "priceUA": "6$ на місяць"
   },
@@ -3985,7 +3975,7 @@
     "typeUA": "Нерухомість",
     "descriptionEN": "Helps choose real estate according to budget, preferences, and location.",
     "descriptionUA": "Допомагає обирати нерухомість відповідно до бюджету, вподобань та місцезнаходження.",
-    "link": "https://airealestateadvisor.com/",
+    "link": "https://lumen5.com/",
     "priceEN": "$30 per month",
     "priceUA": "30$ на місяць"
   },
@@ -3995,7 +3985,7 @@
     "typeUA": "Освіта",
     "descriptionEN": "Creates personalized learning paths for acquiring new skills and enhancing qualifications.",
     "descriptionUA": "Створює персоналізовані навчальні маршрути для освоєння нових навичок та підвищення кваліфікації.",
-    "link": "https://ailearningpathplanner.com/",
+    "link": "https://voicesynth.com/",
     "priceEN": "$15 per month",
     "priceUA": "15$ на місяць"
   },
@@ -4005,7 +3995,7 @@
     "typeUA": "Кулінарія",
     "descriptionEN": "Creates personalized menus with recipes and cooking recommendations.",
     "descriptionUA": "Створює персоналізовані меню з рецептами та рекомендаціями щодо приготування їжі.",
-    "link": "https://aipersonalchef.com/",
+    "link": "https://inkforall.com/",
     "priceEN": "$18 per month",
     "priceUA": "18$ на місяць"
   },
@@ -4025,7 +4015,7 @@
     "typeUA": "Кар'єра",
     "descriptionEN": "Helps freelancers find projects that match their skills and experience.",
     "descriptionUA": "Допомагає фрилансерам знаходити проєкти, які відповідають їхнім навичкам і досвіду.",
-    "link": "https://aifreelancefinder.com/",
+    "link": "https://neurosketch.ai/",
     "priceEN": "$12 per month",
     "priceUA": "12$ на місяць"
   },
@@ -4035,7 +4025,7 @@
     "typeUA": "Освіта",
     "descriptionEN": "Teaches how to improve writing skills by offering advice on text structure and style.",
     "descriptionUA": "Навчає покращувати навички письма, надаючи поради щодо структури тексту та стилю.",
-    "link": "https://aiwritingmentor.com/",
+    "link": "https://aicompose.ai/",
     "priceEN": "$18 per month",
     "priceUA": "18$ на місяць"
   },
@@ -4045,7 +4035,7 @@
     "typeUA": "Допомога літнім",
     "descriptionEN": "Provides personalized assistance for elderly people, reminding them about medications and other important tasks.",
     "descriptionUA": "Допомагає літнім людям в організації щоденних завдань та взаємодії з технікою.",
-    "link": "https://aivirtualassistantforseniors.com/",
+    "link": "https://runwayml.com/",
     "priceEN": "$15 per month",
     "priceUA": "10$ на місяць"
   },
@@ -4055,7 +4045,7 @@
     "typeUA": "Мода",
     "descriptionEN": "Creates stylish outfits based on your wardrobe and preferences.",
     "descriptionUA": "Додає стильні поради для кожного випадку, залежно від ваших переваг.",
-    "link": "https://aifashionstylist.com/",
+    "link": "https://rasa.com/",
     "priceEN": "$20 per month",
     "priceUA": "10$ на місяць"
   },
@@ -4065,7 +4055,7 @@
     "typeUA": "Маркетинг",
     "descriptionEN": "Analyzes your target audience and develops strategies for successful promotion on social media.",
     "descriptionUA": "Аналізує вашу цільову аудиторію та розробляє стратегії для успішного просування в соцмережах.",
-    "link": "https://aisocialmediastrategist.com/",
+    "link": "https://runwayml.com/gen2",
     "priceEN": "$25 per month",
     "priceUA": "25$ на місяць"
   },
@@ -4075,7 +4065,7 @@
     "typeUA": "Фінанси",
     "descriptionEN": "Helps organize personal finances and create a strategy for achieving financial goals.",
     "descriptionUA": "Допомагає планувати бюджет, інвестиції та досягати фінансових цілей.",
-    "link": "https://aifinancialplanner.com/",
+    "link": "https://smarttranslate.com/",
     "priceEN": "$30 per month",
     "priceUA": "20$ на місяць"
   },
@@ -4085,7 +4075,7 @@
     "typeUA": "Продуктивність",
     "descriptionEN": "Helps organize your day, tracks important tasks, and provides recommendations for improving productivity.",
     "descriptionUA": "Допомагає організувати ваш день, відстежує важливі завдання та надає рекомендації щодо підвищення продуктивності.",
-    "link": "https://aitimemanagementassistant.com/",
+    "link": "https://www.voicify.ai/",
     "priceEN": "$10 per month",
     "priceUA": "10$ на місяць"
   },
@@ -4095,7 +4085,7 @@
     "typeUA": "Кар'єра",
     "descriptionEN": "Prepares you for interviews by providing tips on answering questions and improving communication skills.",
     "descriptionUA": "Готує вас до співбесід, надаючи рекомендації щодо відповідей на запитання та покращення комунікативних навичок.",
-    "link": "https://aijobinterviewcoach.com/",
+    "link": "https://www.copymatic.ai/",
     "priceEN": "$18 per month",
     "priceUA": "18$ на місяць"
   },
@@ -4105,7 +4095,7 @@
     "typeUA": "Будівництво",
     "descriptionEN": "Helps plan renovations by providing recommendations on design, materials, and costs.",
     "descriptionUA": "Допомагає планувати ремонт, надаючи рекомендації щодо дизайну, матеріалів і вартості.",
-    "link": "https://aihomerenovationplanner.com/",
+    "link": "https://play.ht/",
     "priceEN": "$22 per month",
     "priceUA": "22$ на місяць"
   },
@@ -4115,7 +4105,7 @@
     "typeUA": "Медіавиробництво",
     "descriptionEN": "Generates voiceovers for videos, games, or presentations based on text.",
     "descriptionUA": "Генерує голосові озвучення для відео, ігор або презентацій на основі тексту.",
-    "link": "https://aivoiceovergenerator.com/",
+    "link": "https://www.jasper.ai/",
     "priceEN": "$15 per month",
     "priceUA": "15$ на місяць"
   },
@@ -4125,7 +4115,7 @@
     "typeUA": "Мода",
     "descriptionEN": "Creates stylish and practical outfits for men, helping with clothing and accessory choices.",
     "descriptionUA": "Створює стильні та практичні образи для чоловіків, допомагаючи у виборі одягу та аксесуарів.",
-    "link": "https://aipersonalstylistformen.com/",
+    "link": "https://mubert.com/",
     "priceEN": "$20 per month",
     "priceUA": "20$ на місяць"
   },
@@ -4135,7 +4125,7 @@
     "typeUA": "Здоров'я",
     "descriptionEN": "Helps improve sleep quality by offering recommendations on sleep routines and the surrounding environment.",
     "descriptionUA": "Допомагає покращити якість сну, пропонуючи рекомендації щодо режиму сну та навколишнього середовища.",
-    "link": "https://aisleepadvisor.com/",
+    "link": "https://visualsynth.ai/",
     "priceEN": "$12 per month",
     "priceUA": "12$ на місяць"
   },
@@ -4145,7 +4135,7 @@
     "typeUA": "Мова",
     "descriptionEN": "Provides automatic translation of texts and conversations in multiple languages.",
     "descriptionUA": "Надає автоматичний переклад текстів і розмов на багато мов.",
-    "link": "https://aiautotranslationservice.com/",
+    "link": "https://www.aipalette.com/",
     "priceEN": "$10 per month",
     "priceUA": "10$ на місяць"
   },
@@ -4155,7 +4145,7 @@
     "typeUA": "Медіавиробництво",
     "descriptionEN": "Helps research podcast topics, offering interesting facts and sources.",
     "descriptionUA": "Допомагає досліджувати теми для подкастів, підбирає цікаві факти та джерела.",
-    "link": "https://aipodcastresearcher.com/",
+    "link": "https://neuromind.ai/",
     "priceEN": "$15 per month",
     "priceUA": "15$ на місяць"
   },
@@ -4165,7 +4155,7 @@
     "typeUA": "Маркетинг",
     "descriptionEN": "Optimizes your content for search engines, boosting visibility and traffic.",
     "descriptionUA": "Оптимізує ваш контент для пошукових систем, підвищуючи його видимість і трафік.",
-    "link": "https://aiseoexpert.com/",
+    "link": "https://www.yseop.com/",
     "priceEN": "$20 per month",
     "priceUA": "20$ на місяць"
   },
@@ -4175,7 +4165,7 @@
     "typeUA": "Література",
     "descriptionEN": "Offers ideas and assists with planning and editing texts for book authors.",
     "descriptionUA": "Пропонує ідеї, допомагає з плануванням та редагуванням текстів для авторів книг.",
-    "link": "https://aiwritingassistantforauthors.com/",
+    "link": "https://marketsense.ai/",
     "priceEN": "$18 per month",
     "priceUA": "18$ на місяць"
   },
@@ -4185,7 +4175,7 @@
     "typeUA": "Домашнє господарство",
     "descriptionEN": "Helps organize home space by providing ideas for optimizing storage and cleaning.",
     "descriptionUA": "Допомагає організувати простір у вашому будинку за допомогою рекомендацій та порад.",
-    "link": "https://aihomeorganizer.com/",
+    "link": "https://ai.google/",
     "priceEN": "$15 per month",
     "priceUA": "7$ на місяць"
   },
@@ -4195,7 +4185,7 @@
     "typeUA": "Здоров'я",
     "descriptionEN": "Personalized workouts and nutrition advice based on your goals and physical condition.",
     "descriptionUA": "Персоналізовані тренування та поради щодо харчування на основі цілей і фізичного стану користувача.",
-    "link": "https://aifitnesscoach.com/",
+    "link": "https://www.flowgpt.com/",
     "priceEN": "$20 per month",
     "priceUA": "20$ на місяць"
   },
@@ -4205,7 +4195,7 @@
     "typeUA": "Новини",
     "descriptionEN": "Selects and offers news based on user interests, enhancing the flow of information.",
     "descriptionUA": "Персоналізована стрічка новин на основі ваших інтересів.",
-    "link": "https://ainewscurator.com/",
+    "link": "https://www.frase.io/",
     "priceEN": "$12 per month",
     "priceUA": "Безкоштовно"
   },
@@ -4215,7 +4205,7 @@
     "typeUA": "Освіта",
     "descriptionEN": "A platform for practicing foreign languages with native speakers via AI connections.",
     "descriptionUA": "Платформа для практики іноземних мов із носіями через AI-з'єднання.",
-    "link": "https://ailanguageexchange.com/",
+    "link": "https://peltarion.com/",
     "priceEN": "$18 per month",
     "priceUA": "18$ на місяць"
   },
@@ -4225,7 +4215,7 @@
     "typeUA": "Здоров'я",
     "descriptionEN": "Provides pet care advice, including feeding, training, and medical recommendations.",
     "descriptionUA": "Пропонує поради щодо догляду за домашніми тваринами, включаючи харчування, тренування та медичні рекомендації.",
-    "link": "https://aipetcareassistant.com/",
+    "link": "https://www.adobe.com/sensei/generative-ai/firefly.html",
     "priceEN": "$10 per month",
     "priceUA": "10$ на місяць"
   },
@@ -4235,7 +4225,7 @@
     "typeUA": "Кар'єра",
     "descriptionEN": "Helps plan a career by suggesting steps for development, skill improvement, and opportunity search.",
     "descriptionUA": "Допомагає планувати кар'єру, пропонуючи кроки для розвитку, покращення навичок і пошуку можливостей.",
-    "link": "https://aicareernavigator.com/",
+    "link": "https://www.murph.ai/",
     "priceEN": "$25 per month",
     "priceUA": "25$ на місяць"
   },
@@ -4245,7 +4235,7 @@
     "typeUA": "Туризм",
     "descriptionEN": "Offers personalized travel routes and tours to popular and lesser-known places.",
     "descriptionUA": "Пропонує персоналізовані туристичні маршрути та екскурсії по популярних і маловідомих місцях.",
-    "link": "https://aivirtualtravelguide.com/",
+    "link": "https://www.anthropic.com/",
     "priceEN": "$15 per month",
     "priceUA": "15$ на місяць"
   },
@@ -4255,7 +4245,7 @@
     "typeUA": "Медіа",
     "descriptionEN": "Automatically edits videos, improving quality and adding effects and transitions.",
     "descriptionUA": "Автоматизує редагування відео, додаючи ефекти та коригуючи кадри.",
-    "link": "https://aivideoeditor.com/",
+    "link": "https://outgrow.co/",
     "priceEN": "$22 per month",
     "priceUA": "15$ на місяць"
   },
@@ -4265,7 +4255,7 @@
     "typeUA": "Мистецтво",
     "descriptionEN": "Creates original digital paintings, illustrations, and designs based on text and preferences.",
     "descriptionUA": "Створює оригінальні цифрові картини, ілюстрації та дизайни на основі тексту та вподобань.",
-    "link": "https://aidigitalartist.com/",
+    "link": "https://leonardo.ai/",
     "priceEN": "$30 per month",
     "priceUA": "30$ на місяць"
   },
@@ -4275,7 +4265,7 @@
     "typeUA": "Література",
     "descriptionEN": "Recommends books based on your preferences and interests.",
     "descriptionUA": "Рекомендує книги на основі ваших вподобань та інтересів.",
-    "link": "https://aibookrecommendation.com/",
+    "link": "https://www.smartly.io/",
     "priceEN": "$10 per month",
     "priceUA": "10$ на місяць"
   },
@@ -4285,7 +4275,7 @@
     "typeUA": "Здоров'я",
     "descriptionEN": "Provides audio guides and tips for meditation to help relax and improve mental well-being.",
     "descriptionUA": "Проводить сеанси медитації та релаксації за допомогою інтелектуальних технік.",
-    "link": "https://aimeditationguide.com/",
+    "link": "https://www.perplexity.ai/",
     "priceEN": "$12 per month",
     "priceUA": "7$ на місяць"
   },
@@ -4295,7 +4285,7 @@
     "typeUA": "Нерухомість",
     "descriptionEN": "Individually selects styles and furniture for virtual staging of homes and apartments for sale.",
     "descriptionUA": "Індивідуально підбирає стилі та меблі для віртуальної підготовки будинків і квартир до продажу.",
-    "link": "https://aivirtualhomestager.com/",
+    "link": "https://www.storylab.ai/",
     "priceEN": "$25 per month",
     "priceUA": "25$ на місяць"
   },
@@ -4305,7 +4295,7 @@
     "typeUA": "Фотографія",
     "descriptionEN": "Enhances photos, improves their quality, and restores damaged images.",
     "descriptionUA": "Покращує якість фотографій, зберігаючи їхню природну красу.",
-    "link": "https://aiphotoenhancer.com/",
+    "link": "https://replit.com/",
     "priceEN": "$18 per month",
     "priceUA": "10$ на місяць"
   },
@@ -4315,7 +4305,7 @@
     "typeUA": "Література",
     "descriptionEN": "Creates speeches based on key ideas and target audiences.",
     "descriptionUA": "Створює промови, базуючись на ключових ідеях і цільовій аудиторії.",
-    "link": "https://aispeechwriter.com/",
+    "link": "https://murf.ai/",
     "priceEN": "$20 per month",
     "priceUA": "20$ на місяць"
   },
@@ -4325,7 +4315,7 @@
     "typeUA": "Підприємництво",
     "descriptionEN": "Generates business ideas based on current trends, needs, and personal interests.",
     "descriptionUA": "Генерує ідеї для бізнесу на основі поточних трендів, потреб і особистих інтересів.",
-    "link": "https://aibusinessideagenerator.com/",
+    "link": "https://www.lobster.io/",
     "priceEN": "$15 per month",
     "priceUA": "15$ на місяць"
   },
@@ -4335,7 +4325,7 @@
     "typeUA": "Організація подій",
     "descriptionEN": "Helps organize events, from planning to coordinating all the details.",
     "descriptionUA": "Автоматично створює плани для заходів, підбирає локації та організовує всю логістику.",
-    "link": "https://aieventplanner.com/",
+    "link": "https://www.textcortex.com/",
     "priceEN": "$18 per month",
     "priceUA": "25$ на місяць"
   },
@@ -4345,7 +4335,7 @@
     "typeUA": "Література",
     "descriptionEN": "Helps writers create outlines, formulate ideas, and edit texts.",
     "descriptionUA": "Допомагає письменникам створювати план, формулювати ідеї та редагувати тексти.",
-    "link": "https://aipersonalassistantforwriters.com/",
+    "link": "https://clipdrop.co/",
     "priceEN": "$25 per month",
     "priceUA": "25$ на місяць"
   },
@@ -4355,7 +4345,7 @@
     "typeUA": "Дизайн",
     "descriptionEN": "Generates 3D models for use in games, VR, or other applications.",
     "descriptionUA": "Генерує 3D-моделі для використання в іграх, VR або інших застосунках.",
-    "link": "https://ai3dmodelcreator.com/",
+    "link": "https://grid.ai/",
     "priceEN": "$30 per month",
     "priceUA": "30$ на місяць"
   },
@@ -4365,7 +4355,7 @@
     "typeUA": "Технології",
     "descriptionEN": "Provides real-time translation for conversations in various languages.",
     "descriptionUA": "Забезпечує переклад у реальному часі для розмов різними мовами.",
-    "link": "https://airealtimetranslator.com/",
+    "link": "https://www.ai-art.tokyo/en/portrait/",
     "priceEN": "$20 per month",
     "priceUA": "20$ на місяць"
   },
@@ -4375,7 +4365,7 @@
     "typeUA": "Кар'єра",
     "descriptionEN": "Searches for talented specialists, offering employers suitable candidates.",
     "descriptionUA": "Шукає талановитих спеціалістів, пропонуючи роботодавцям відповідних кандидатів.",
-    "link": "https://aitalentscout.com/",
+    "link": "https://www.anthropic.com/claude",
     "priceEN": "$25 per month",
     "priceUA": "25$ на місяць"
   },
@@ -4385,7 +4375,7 @@
     "typeUA": "Здоров'я",
     "descriptionEN": "Tracks physical activity, recommends workouts, and analyzes progress.",
     "descriptionUA": "Відстежує фізичну активність, рекомендує тренування та аналізує прогрес.",
-    "link": "https://aipersonalfitnesstracker.com/",
+    "link": "https://geniusbook.ai/",
     "priceEN": "$18 per month",
     "priceUA": "18$ на місяць"
   },
@@ -4395,7 +4385,7 @@
     "typeUA": "Розвиток",
     "descriptionEN": "Helps train memory by offering exercises to improve cognitive skills.",
     "descriptionUA": "Допомагає покращити пам'ять за допомогою інтерактивних вправ.",
-    "link": "https://aimemorytrainer.com/",
+    "link": "https://reface.app/",
     "priceEN": "$15 per month",
     "priceUA": "8$ на місяць"
   },
@@ -4405,7 +4395,7 @@
     "typeUA": "Безпека",
     "descriptionEN": "Recommends ways to enhance home security, including devices and systems.",
     "descriptionUA": "Рекомендує способи підвищення безпеки в будинку, включаючи пристрої та системи.",
-    "link": "https://aihomesecurityadvisor.com/",
+    "link": "https://www.copy.ai/",
     "priceEN": "$20 per month",
     "priceUA": "20$ на місяць"
   },
@@ -4415,7 +4405,7 @@
     "typeUA": "Аналітика",
     "descriptionEN": "Predicts market trends based on data and AI algorithms.",
     "descriptionUA": "Прогнозує ринкові тренди на основі даних і алгоритмів ШІ.",
-    "link": "https://aimarkettrendpredictor.com/",
+    "link": "https://quillbot.com/",
     "priceEN": "$30 per month",
     "priceUA": "30$ на місяць"
   },
@@ -4425,7 +4415,7 @@
     "typeUA": "Продуктивність",
     "descriptionEN": "Tracks time spent on various tasks, helping improve time management.",
     "descriptionUA": "Відстежує час, проведений на різних завданнях, допомагаючи покращити управління часом.",
-    "link": "https://aitimetracker.com/",
+    "link": "https://www.stockai.com/",
     "priceEN": "$10 per month",
     "priceUA": "10$ на місяць"
   },
@@ -4435,7 +4425,7 @@
     "typeUA": "Медіавиробництво",
     "descriptionEN": "Creates sound effects for games, movies, and audio projects.",
     "descriptionUA": "Створює звукові ефекти для ігор, фільмів та аудіопроєктів.",
-    "link": "https://aisoundeffects.com/",
+    "link": "https://synthportraits.ai/",
     "priceEN": "$20 per month",
     "priceUA": "20$ на місяць"
   },
@@ -4445,7 +4435,7 @@
     "typeUA": "Здоров'я",
     "descriptionEN": "Creates personalized meal plans based on fitness goals and dietary preferences.",
     "descriptionUA": "Складає індивідуальні плани харчування з урахуванням цілей щодо фізичної форми та дієтичних вподобань.",
-    "link": "https://aifitnessdietplanner.com/",
+    "link": "https://aitutorpro.com/",
     "priceEN": "$18 per month",
     "priceUA": "18$ на місяць"
   },
@@ -4455,7 +4445,7 @@
     "typeUA": "Психологія",
     "descriptionEN": "Analyzes dreams and provides interpretations based on psychological and cultural theories.",
     "descriptionUA": "Інтерпретує сни та пропонує глибоке тлумачення ваших нічних візій.",
-    "link": "https://aidreaminterpreter.com/",
+    "link": "https://poe.com/",
     "priceEN": "$15 per month",
     "priceUA": "8$ на місяць"
   },
@@ -4465,7 +4455,7 @@
     "typeUA": "Кулінарія",
     "descriptionEN": "Suggests recipes and cooking tips based on available ingredients.",
     "descriptionUA": "Підказує рецепти та поради для створення страв на основі ваших інгредієнтів.",
-    "link": "https://aicookingassistant.com/",
+    "link": "https://wit.ai/",
     "priceEN": "$12 per month",
     "priceUA": "Безкоштовно"
   },
@@ -4475,7 +4465,7 @@
     "typeUA": "Здоров'я",
     "descriptionEN": "Helps improve sleep quality with recommendations on sleep routines and environment.",
     "descriptionUA": "Допомагає покращити якість сну за допомогою рекомендацій щодо режиму та навколишнього середовища.",
-    "link": "https://aisleepoptimizer.com/",
+    "link": "https://deepwriter.ai/",
     "priceEN": "$18 per month",
     "priceUA": "18$ на місяць"
   },
@@ -4485,7 +4475,7 @@
     "typeUA": "Мода",
     "descriptionEN": "Provides personalized style and clothing combination advice.",
     "descriptionUA": "Пропонує персоналізовані поради щодо стилю та поєднання одягу.",
-    "link": "https://aifashionconsultant.com/",
+    "link": "https://neurotext.ai/",
     "priceEN": "$20 per month",
     "priceUA": "20$ на місяць"
   },
@@ -4495,7 +4485,7 @@
     "typeUA": "Дизайн",
     "descriptionEN": "Creates house and apartment designs based on user preferences and current trends.",
     "descriptionUA": "Створює проєкти будинків і квартир, орієнтуючись на побажання користувача та поточні тренди.",
-    "link": "https://aidreamhousedesigner.com/",
+    "link": "https://designs.ai/",
     "priceEN": "$25 per month",
     "priceUA": "25$ на місяць"
   },
@@ -4505,7 +4495,7 @@
     "typeUA": "Психологія",
     "descriptionEN": "Provides psychotherapy sessions using cognitive-behavioral therapy methods.",
     "descriptionUA": "Надає психологічні консультації та поради для поліпшення емоційного стану.",
-    "link": "https://aivirtualtherapist.com/",
+    "link": "https://mindscript.ai/",
     "priceEN": "$30 per month",
     "priceUA": "20$ на місяць"
   },
@@ -4515,7 +4505,7 @@
     "typeUA": "Подорожі",
     "descriptionEN": "Creates personalized travel itineraries based on budget and preferences.",
     "descriptionUA": "Генерує індивідуальні маршрути подорожей.",
-    "link": "https://aitravelplanner.com/",
+    "link": "https://neurocolor.ai/",
     "priceEN": "$20 per month",
     "priceUA": "5$ на місяць"
   },
@@ -4525,7 +4515,7 @@
     "typeUA": "Саморозвиток",
     "descriptionEN": "Tracks and helps achieve long-term and short-term goals with reminders and advice.",
     "descriptionUA": "Допомагає ставити та відстежувати особисті цілі.",
-    "link": "https://aigoaltracker.com/",
+    "link": "https://www.clarifai.com/",
     "priceEN": "$12 per month",
     "priceUA": "7$ на місяць"
   },
@@ -4535,7 +4525,7 @@
     "typeUA": "Кулінарія",
     "descriptionEN": "Creates personalized recipes considering dietary restrictions and preferences.",
     "descriptionUA": "Створює меню та дає поради з приготування страв у вашій кухні.",
-    "link": "https://aivirtualchef.com/",
+    "link": "https://sizle.ai/",
     "priceEN": "$18 per month",
     "priceUA": "10$ на місяць"
   },
@@ -4545,7 +4535,7 @@
     "typeUA": "Освіта",
     "descriptionEN": "Helps children learn new topics using gamified methods and adaptive materials.",
     "descriptionUA": "Допомагає дітям вивчати нові теми, використовуючи ігрові методи та адаптивні матеріали.",
-    "link": "https://aichildlearningassistant.com/",
+    "link": "https://www.medeanalytics.com/",
     "priceEN": "$15 per month",
     "priceUA": "15$ на місяць"
   },
@@ -4555,7 +4545,7 @@
     "typeUA": "Фінанси",
     "descriptionEN": "Offers personalized recommendations on managing personal finances and investments.",
     "descriptionUA": "Пропонує персоналізовані рекомендації щодо управління особистими фінансами та інвестування.",
-    "link": "https://aipersonalfinanceadvisor.com/",
+    "link": "https://replika.ai/",
     "priceEN": "$25 per month",
     "priceUA": "25$ на місяць"
   },
@@ -4565,7 +4555,7 @@
     "typeUA": "Торгівля",
     "descriptionEN": "Helps users find and purchase products based on preferences and reviews.",
     "descriptionUA": "Допомагає користувачам знаходити й купувати товари, орієнтуючись на вподобання та відгуки.",
-    "link": "https://aivirtualshoppingassistant.com/",
+    "link": "https://www.deepbrain.io/",
     "priceEN": "$10 per month",
     "priceUA": "10$ на місяць"
   },
@@ -4575,7 +4565,7 @@
     "typeUA": "Музика",
     "descriptionEN": "Creates original music for movies, games, and personal projects.",
     "descriptionUA": "Створює оригінальну музику для фільмів, ігор та особистих проектів.",
-    "link": "https://aivirtualmusiccomposer.com/",
+    "link": "https://www.scribbr.com/",
     "priceEN": "$30 per month",
     "priceUA": "30$ на місяць"
   },
@@ -4585,7 +4575,7 @@
     "typeUA": "Література",
     "descriptionEN": "Generates original stories based on provided plot ideas and genres.",
     "descriptionUA": "Генерує сюжетні лінії для книг та оповідань на основі ваших вказівок.",
-    "link": "https://aistorygenerator.com/",
+    "link": "https://gamegen.ai/",
     "priceEN": "$12 per month",
     "priceUA": "12$ на місяць"
   },
@@ -4595,7 +4585,7 @@
     "typeUA": "Медіа",
     "descriptionEN": "Creates original content for blogs, social media, and websites.",
     "descriptionUA": "Створює оригінальний контент для блогів, соціальних мереж і веб-сайтів.",
-    "link": "https://aicontentcreator.com/",
+    "link": "https://fireflies.ai/",
     "priceEN": "$20 per month",
     "priceUA": "20$ на місяць"
   },
@@ -4605,7 +4595,7 @@
     "typeUA": "Кінематограф",
     "descriptionEN": "Generates scripts for movies, TV shows, and commercials.",
     "descriptionUA": "Генерує сценарії для фільмів за заданими жанрами та темами.",
-    "link": "https://aimoviescriptgenerator.com/",
+    "link": "https://dream.ai/",
     "priceEN": "$25 per month",
     "priceUA": "15$ на місяць"
   },
@@ -4615,7 +4605,7 @@
     "typeUA": "Дизайн",
     "descriptionEN": "Creates unique jewelry designs based on user preferences.",
     "descriptionUA": "Створює унікальні проекти прикрас на основі уподобань користувача.",
-    "link": "https://aicustomjewelrydesigner.com/",
+    "link": "https://soundraw.io/",
     "priceEN": "$35 per month",
     "priceUA": "35$ на місяць"
   },
@@ -4625,7 +4615,7 @@
     "typeUA": "Маркетинг",
     "descriptionEN": "Manages social media and creates content for effective promotion.",
     "descriptionUA": "Автоматизує публікації в соціальних мережах та аналітику.",
-    "link": "https://aisocialmediamanager.com/",
+    "link": "https://chat.openai.com/",
     "priceEN": "$40 per month",
     "priceUA": "15$ на місяць"
   },
@@ -4635,7 +4625,7 @@
     "typeUA": "Нерухомість",
     "descriptionEN": "Finds the best housing and real estate options based on specified criteria.",
     "descriptionUA": "Знаходить найкращі варіанти житла та нерухомості за заданими критеріями.",
-    "link": "https://aipropertyfinder.com/",
+    "link": "https://www.heygen.com/",
     "priceEN": "$15 per month",
     "priceUA": "15$ на місяць"
   },
@@ -4645,7 +4635,7 @@
     "typeUA": "Медіапродакшн",
     "descriptionEN": "Creates voiceovers for videos, audiobooks, and presentations.",
     "descriptionUA": "Створює озвучку для відео, аудіокниг і презентацій.",
-    "link": "https://aivoiceoverartist.com/",
+    "link": "https://www.sly.ai/",
     "priceEN": "$25 per month",
     "priceUA": "25$ на місяць"
   },
@@ -4655,7 +4645,7 @@
     "typeUA": "Здоров'я",
     "descriptionEN": "Tracks physical activity, analyzes data, and provides personalized workouts.",
     "descriptionUA": "Відстежує фізичну активність і дає поради щодо тренувань.",
-    "link": "https://aifitnesstracker.com/",
+    "link": "https://cleanup.pictures/",
     "priceEN": "$20 per month",
     "priceUA": "12$ на місяць"
   },
@@ -4665,7 +4655,7 @@
     "typeUA": "Мистецтво",
     "descriptionEN": "Evaluates artwork and provides constructive criticism.",
     "descriptionUA": "Аналізує та оцінює твори мистецтва за допомогою нейронних мереж.",
-    "link": "https://aiartcritic.com/",
+    "link": "https://www.codeium.com/",
     "priceEN": "$15 per month",
     "priceUA": "8$ на місяць"
   },
@@ -4675,7 +4665,7 @@
     "typeUA": "Освіта",
     "descriptionEN": "Assists with research by analyzing data and providing results.",
     "descriptionUA": "Допомагає з проведенням досліджень, аналізує дані та надає результати.",
-    "link": "https://airesearchassistant.com/",
+    "link": "https://deepart.io/",
     "priceEN": "$20 per month",
     "priceUA": "20$ на місяць"
   },
@@ -4685,7 +4675,7 @@
     "typeUA": "Дизайн",
     "descriptionEN": "Creates unique t-shirt designs based on customer preferences.",
     "descriptionUA": "Створює унікальні дизайни для футболок з урахуванням побажань клієнта.",
-    "link": "https://aicustomtshirtdesigner.com/",
+    "link": "https://deepdreamgenerator.com/",
     "priceEN": "$18 per month",
     "priceUA": "18$ на місяць"
   },
@@ -4695,7 +4685,7 @@
     "typeUA": "Технології",
     "descriptionEN": "Allows you to create personalized chatbots for business and personal projects.",
     "descriptionUA": "Дозволяє створювати персоналізовані чат-боти для бізнесу та особистих проектів.",
-    "link": "https://aichatbotbuilder.com/",
+    "link": "https://bard.google.com/",
     "priceEN": "$22 per month",
     "priceUA": "22$ на місяць"
   },
@@ -4705,7 +4695,7 @@
     "typeUA": "AI Асистент",
     "descriptionEN": "An AI-powered assistant that helps with productivity by organizing your tasks and suggesting optimal work routines.",
     "descriptionUA": "AI-асистент, який допомагає підвищити продуктивність, організовуючи завдання та пропонуючи оптимальні робочі рутини.",
-    "link": "https://vividmind.com/",
+    "link": "https://www.podcastle.ai/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -4715,7 +4705,7 @@
     "typeUA": "Створення музики",
     "descriptionEN": "Generate unique synthwave tracks based on your mood and preferences.",
     "descriptionUA": "Створюйте унікальні треки синтвейву, основані на вашому настрої та вподобаннях.",
-    "link": "https://synthwaveai.com/",
+    "link": "https://dreamhouse.ai/",
     "priceEN": "Free, with premium options",
     "priceUA": "Безкоштовно, з преміум-опціями"
   },
@@ -4725,7 +4715,7 @@
     "typeUA": "AI для моди",
     "descriptionEN": "An AI that provides personalized fashion recommendations based on your style preferences and current trends.",
     "descriptionUA": "AI, що пропонує персоналізовані рекомендації щодо моди, враховуючи ваш стиль та актуальні тенденції.",
-    "link": "https://smartstyle.com/",
+    "link": "https://smartresume.com/",
     "priceEN": "Free trial, subscription 15$ per month",
     "priceUA": "Безкоштовна пробна версія, підписка 15$ на місяць"
   },
@@ -4735,7 +4725,7 @@
     "typeUA": "Здоров'я та фітнес",
     "descriptionEN": "AI-powered personal trainer that adapts your workout routine based on progress and goals.",
     "descriptionUA": "AI-особистий тренер, який адаптує вашу тренувальну програму в залежності від прогресу та цілей.",
-    "link": "https://neurofit.com/",
+    "link": "https://brandifyai.com/",
     "priceEN": "8$ per month",
     "priceUA": "8$ на місяць"
   },
@@ -4745,7 +4735,7 @@
     "typeUA": "Графічний дизайн",
     "descriptionEN": "AI-powered tool that assists in creating professional-grade visuals, logos, and illustrations.",
     "descriptionUA": "AI-інструмент, який допомагає створювати професійні візуали, логотипи та ілюстрації.",
-    "link": "https://imagecraft.com/",
+    "link": "https://www.beautiful.ai/",
     "priceEN": "Free basic version, subscription 15$ per month",
     "priceUA": "Безкоштовна базова версія, підписка 15$ на місяць"
   },
@@ -4755,7 +4745,7 @@
     "typeUA": "Асистент для письма",
     "descriptionEN": "AI tool that helps authors with writing, editing, and refining their content by suggesting improvements.",
     "descriptionUA": "AI-інструмент, який допомагає авторам з написанням, редагуванням та вдосконаленням контенту, пропонуючи покращення.",
-    "link": "https://echowrite.com/",
+    "link": "https://play.aidungeon.io/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -4765,7 +4755,7 @@
     "typeUA": "Продуктивність",
     "descriptionEN": "An AI planner that organizes your schedule, prioritizes tasks, and reminds you of deadlines.",
     "descriptionUA": "AI-планувальник, який організовує ваш графік, пріоритетує завдання та нагадує про терміни.",
-    "link": "https://planit.ai/",
+    "link": "https://imagemind.ai/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -4775,7 +4765,7 @@
     "typeUA": "Покращення зображень",
     "descriptionEN": "Enhance and restore your images with AI, removing noise, improving resolution, and applying artistic filters.",
     "descriptionUA": "Поліпшуйте та відновлюйте зображення за допомогою AI, усуваючи шум, покращуючи роздільну здатність і застосовуючи художні фільтри.",
-    "link": "https://autovision.com/",
+    "link": "https://brain.fm/",
     "priceEN": "40$ per month",
     "priceUA": "40$ на місяць"
   },
@@ -4785,7 +4775,7 @@
     "typeUA": "Синтез голосу",
     "descriptionEN": "Create realistic and emotive voiceovers for any type of content using AI-driven speech synthesis.",
     "descriptionUA": "Створюйте реалістичні та емоційні озвучення для будь-якого типу контенту за допомогою синтезу мовлення на основі AI.",
-    "link": "https://voicecraft.com/",
+    "link": "https://www.magisto.com/",
     "priceEN": "15$ per month",
     "priceUA": "15$ на місяць"
   },
@@ -4795,7 +4785,7 @@
     "typeUA": "Переклад",
     "descriptionEN": "Advanced neural network for real-time translation with context-sensitive accuracy.",
     "descriptionUA": "Просунута нейронна мережа для перекладу в реальному часі з контекстно-залежною точністю.",
-    "link": "https://deeptranslate.com/",
+    "link": "https://pika.art/",
     "priceEN": "8.99$ per month",
     "priceUA": "8.99$ на місяць"
   },
@@ -4805,7 +4795,7 @@
     "typeUA": "Брендинг",
     "descriptionEN": "AI that generates unique brand names, logos, and taglines tailored to your business.",
     "descriptionUA": "AI, що генерує унікальні назви брендів, логотипи та слогани, пристосовані до вашого бізнесу.",
-    "link": "https://brandgen.com/",
+    "link": "https://crello.com/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -4815,7 +4805,7 @@
     "typeUA": "Музична терапія",
     "descriptionEN": "Generate therapeutic music based on your emotional state using AI.",
     "descriptionUA": "Створюйте терапевтичну музику на основі вашого емоційного стану за допомогою AI.",
-    "link": "https://moodmuse.com/",
+    "link": "https://elevenlabs.io/",
     "priceEN": "Free with limited features, premium 20$ per month",
     "priceUA": "Безкоштовно з обмеженими функціями, преміум 20$ на місяць"
   },
@@ -4825,7 +4815,7 @@
     "typeUA": "Аналіз фондового ринку",
     "descriptionEN": "AI tool that predicts stock market trends and offers personalized investment advice.",
     "descriptionUA": "AI-інструмент, що прогнозує тренди фондового ринку та надає персоналізовані інвестиційні поради.",
-    "link": "https://optistock.com/",
+    "link": "https://fireflies.ai/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -4835,7 +4825,7 @@
     "typeUA": "Розповідання історій",
     "descriptionEN": "Generate compelling stories, character dialogues, and plot structures using AI.",
     "descriptionUA": "Створюйте захоплюючі історії, діалоги персонажів і сюжетні лінії за допомогою AI.",
-    "link": "https://storycraft.ai/",
+    "link": "https://www.scribehow.com/",
     "priceEN": "Free trial, premium 16$ per month",
     "priceUA": "Безкоштовна пробна версія, преміум 16$ на місяць"
   },
@@ -4845,7 +4835,7 @@
     "typeUA": "Освіта",
     "descriptionEN": "AI-powered tutor that provides personalized learning experiences in a variety of subjects.",
     "descriptionUA": "AI-репетитор, який надає персоналізовані навчальні досвіди з різних предметів.",
-    "link": "https://tutorbot.com/",
+    "link": "https://personagen.ai/",
     "priceEN": "25$ per month",
     "priceUA": "25$ на місяць"
   },
@@ -4855,7 +4845,7 @@
     "typeUA": "Генератор мистецтва",
     "descriptionEN": "Create stunning digital art and illustrations with AI based on text prompts or your own ideas.",
     "descriptionUA": "Створюйте приголомшливе цифрове мистецтво та ілюстрації з допомогою AI, орієнтуючись на текстові підказки або власні ідеї.",
-    "link": "https://visionary.ai/",
+    "link": "https://www.frase.io/",
     "priceEN": "10$ per month",
     "priceUA": "10$ на місяць"
   },
@@ -4865,7 +4855,7 @@
     "typeUA": "Відстеження здоров'я",
     "descriptionEN": "AI-driven health tracker that monitors your vitals, fitness progress, and sleep patterns.",
     "descriptionUA": "AI-інструмент для відстеження вашого здоров'я, фізичних показників і режиму сну.",
-    "link": "https://healthmate.com/",
+    "link": "https://pixray.gob.io/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -4875,7 +4865,7 @@
     "typeUA": "Підсумовування контенту",
     "descriptionEN": "Summarize articles, research papers, and news quickly using AI.",
     "descriptionUA": "Швидко підсумовуйте статті, наукові роботи та новини за допомогою AI.",
-    "link": "https://smartsummarizer.com/",
+    "link": "https://www.jasper.ai/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -4885,7 +4875,7 @@
     "typeUA": "Створення музики",
     "descriptionEN": "Create music tracks from scratch or refine existing melodies using AI.",
     "descriptionUA": "Створюйте музичні треки з нуля або вдосконалюйте існуючі мелодії за допомогою AI.",
-    "link": "https://echotune.com/",
+    "link": "https://gamma.app/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -4895,7 +4885,7 @@
     "typeUA": "Графічний дизайн",
     "descriptionEN": "Generate website layouts, marketing materials, and product designs with AI.",
     "descriptionUA": "Створюйте макети вебсайтів, маркетингові матеріали та дизайни продуктів за допомогою AI.",
-    "link": "https://autodesignai.com/",
+    "link": "https://www.synthesys.io/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -4905,7 +4895,7 @@
     "typeUA": "Автоматизація дому",
     "descriptionEN": "AI-powered assistant that helps manage and automate home devices, schedules, and preferences.",
     "descriptionUA": "AI-асистент, який допомагає керувати та автоматизувати домашні пристрої, графіки та налаштування.",
-    "link": "https://homebot.ai/",
+    "link": "https://www.remove.bg/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -4915,7 +4905,7 @@
     "typeUA": "Аналіз соціальних мереж",
     "descriptionEN": "Track social media mentions, analyze sentiment, and generate reports with AI.",
     "descriptionUA": "Відстежуйте згадки в соціальних мережах, аналізуйте настрої та створюйте звіти за допомогою AI.",
-    "link": "https://mediamonitor.com/",
+    "link": "https://hotpot.ai/",
     "priceEN": "15$ per month",
     "priceUA": "15$ на місяць"
   },
@@ -4925,7 +4915,7 @@
     "typeUA": "Створення історій",
     "descriptionEN": "Generate interactive stories with personalized characters and outcomes using AI.",
     "descriptionUA": "Створюйте інтерактивні історії з персоналізованими персонажами та результатами за допомогою AI.",
-    "link": "https://storyscribe.ai/",
+    "link": "https://www.veeva.com/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -4935,7 +4925,7 @@
     "typeUA": "Фінансове планування",
     "descriptionEN": "AI-driven financial planner to help with budgeting, investing, and saving money.",
     "descriptionUA": "AI-фінансовий планувальник для допомоги в бюджетуванні, інвестуванні та заощадженні грошей.",
-    "link": "https://financesense.com/",
+    "link": "https://runwayml.com/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -4945,7 +4935,7 @@
     "typeUA": "Розвиток навичок",
     "descriptionEN": "AI-based tool to recommend courses, track your learning progress, and help you upskill efficiently.",
     "descriptionUA": "AI-інструмент для рекомендацій курсів, відстеження прогресу навчання та ефективного покращення навичок.",
-    "link": "https://skillforge.com/",
+    "link": "https://writesonic.com/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -4955,7 +4945,7 @@
     "typeUA": "Розробка ігор",
     "descriptionEN": "AI assistant for indie game developers that helps with level design, character creation, and coding.",
     "descriptionUA": "AI-асистент для інді-розробників ігор, який допомагає з дизайном рівнів, створенням персонажів та програмуванням.",
-    "link": "https://gameforgeai.com/",
+    "link": "https://surferseo.com/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -4965,7 +4955,7 @@
     "typeUA": "Рекрутинг",
     "descriptionEN": "AI-driven recruitment tool that matches candidates to job descriptions and streamlines the hiring process.",
     "descriptionUA": "AI-рекрутингова система, яка підбирає кандидатів за описами вакансій і спрощує процес найму.",
-    "link": "https://talentscout.ai/",
+    "link": "https://recipebot.com/",
     "priceEN": "10$ per month",
     "priceUA": "10$ на місяць"
   },
@@ -4975,7 +4965,7 @@
     "typeUA": "Створення контенту",
     "descriptionEN": "Create multimedia content such as videos, stories, and podcasts using AI tools.",
     "descriptionUA": "Створюйте мультимедійний контент, такий як відео, історії та подкасти, за допомогою AI-інструментів.",
-    "link": "https://storymixer.com/",
+    "link": "https://bard.google.com/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -4985,7 +4975,7 @@
     "typeUA": "Обслуговування клієнтів",
     "descriptionEN": "AI assistant that helps automate customer interactions, lead nurturing, and follow-ups.",
     "descriptionUA": "AI-асистент, який допомагає автоматизувати взаємодію з клієнтами, опрацювання лідів і фоллоу-апи.",
-    "link": "https://nurturebot.com/",
+    "link": "https://videomagic.ai/",
     "priceEN": "Free",
     "priceUA": "Безкоштовно"
   },
@@ -4995,7 +4985,7 @@
     "typeUA": "Редагування зображень",
     "descriptionEN": "AI tool for advanced photo editing, color correction, and visual effects.",
     "descriptionUA": "AI-інструмент для розширеного редагування фото, корекції кольору та створення візуальних ефектів.",
-    "link": "https://imagebot.com/",
+    "link": "https://murf.ai/",
     "priceEN": "15$ per month",
     "priceUA": "15$ на місяць"
   },
@@ -5005,7 +4995,7 @@
     "typeUA": "VR",
     "descriptionEN": "Loviskop is an AI-powered VR tool designed for advanced photo editing, color correction, and creating stunning visual effects.",
     "descriptionUA": "Loviskop — це VR-інструмент на основі AI, що призначений для розширеного редагування фото, корекції кольору та створення захоплюючих візуальних ефектів.",
-    "link": "https://loviskop.com/",
+    "link": "https://otter.ai/",
     "priceEN": "10$ per month",
     "priceUA": "10$ на місяць"
   }
