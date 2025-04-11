@@ -8,16 +8,32 @@ const openai = new OpenAI({
 
 export async function useChatMutation(text: string): Promise<string> {
   try {
-    const completion = await openai.chat.completions.create({
-      model: "gpt-4o-mini",
-      messages: [
-        {
-          role: "user",
-          content: text,
+    const completion = await fetch(
+      "https://api.openai.com/v1/chat/completions",
+      {
+        method: "POST",
+        headers: {
+          //@ts-ignore
+          Authorization: "Bearer ${import.meta.env.VITE_API_KEY}",
+          "Content-Type": "application/json",
         },
-      ],
-      store: true,
-    });
+        body: JSON.stringify({
+          model: "gpt-4o-mini",
+          messages: [{ role: "user", content: text }],
+        }),
+      },
+    );
+    // const completion = await openai.chat.completions.create({
+    //   model: "gpt-4o-mini",
+    //   messages: [
+    //     {
+    //       role: "user",
+    //       content: text,
+    //     },
+    //   ],
+    //   store: true,
+    // });
+    //@ts-ignore
     return completion.choices[0].message.content as string;
   } catch (error: any) {
     if (error.response && error.response.status === 429) {

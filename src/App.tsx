@@ -226,7 +226,6 @@ export default function App() {
             ChatGPT
           </p>
         </div>
-
         {Object.values(globalChats).map((chat, i) => (
           <div className="w-full h-fit flex flex-col relative">
             <div
@@ -311,7 +310,6 @@ export default function App() {
               const target = e.target as HTMLElement;
               const maxScrollTop =
                 target.scrollHeight - target.clientHeight - 192;
-
               if (maxScrollTop > target.scrollTop) {
                 setIsScrolled(true);
               } else {
@@ -350,7 +348,7 @@ export default function App() {
                               <br />
                               <b key={`${part}_${index}`}>{part}</b>
                             </>
-                          ) : part.startsWith("**") && part.endsWith("**") ? (
+                          ) : part.startsWith("") && part.endsWith("") ? (
                             <b key={`${index}_${part}`}>{part.slice(2, -2)}</b>
                           ) : (
                             part
