@@ -2,7 +2,6 @@ import { TbLayoutSidebarRightExpand } from "react-icons/tb";
 import { useEffect, useRef, useState } from "react";
 import { IoArrowDownOutline } from "react-icons/io5";
 import { FaRegTrashCan } from "react-icons/fa6";
-import { useChatMutation } from "@/useChatQuery";
 
 type GlobalChats = {
   [key: number]: ActiveChatData;
@@ -110,13 +109,13 @@ export default function App() {
     ]);
     setIsResponseLoading(true);
 
-    const response = await useChatMutation(text);
-    // let response = "Бубубу";
-    // await new Promise((res) => {
-    //   setTimeout(() => {
-    //     res();
-    //   }, 1000);
-    // });
+    // const response = await useChatMutation(text);
+    let response = "Бубубу";
+    await new Promise((res) => {
+      setTimeout(() => {
+        res();
+      }, 1000);
+    });
 
     setIsResponseLoading(false);
 

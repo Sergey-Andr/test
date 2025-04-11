@@ -19,7 +19,7 @@ export default defineConfig({
         target: "https://api.openai.com",
         changeOrigin: true,
         rewrite: (path) => path.replace(/^\/api/, ""),
-        secure: false,
+        secure: true,
       },
     },
   },
