@@ -14,7 +14,7 @@ export async function useChatMutation(text: string): Promise<string> {
         method: "POST",
         headers: {
           //@ts-ignore
-          Authorization: "Bearer ${import.meta.env.VITE_API_KEY}",
+          Authorization: `Bearer ${import.meta.env.VITE_API_KEY}`,
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
