@@ -8,7 +8,7 @@ const openai = new OpenAI({
 
 export async function useChatMutation(text: string): Promise<string> {
   try {
-    const completion = await fetch("https://api.openai.com/v1/completions", {
+    const completion = await fetch("/api/v1/chat/completions", {
       method: "POST",
       headers: {
         //@ts-ignore
