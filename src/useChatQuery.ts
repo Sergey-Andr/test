@@ -1,37 +1,21 @@
-import OpenAI from "openai";
-
-const openai = new OpenAI({
-  //@ts-ignore
-  apiKey: import.meta.env.VITE_API_KEY,
-  dangerouslyAllowBrowser: true,
-});
-
 export async function useChatMutation(text: string): Promise<string> {
   try {
-    const completion = await fetch("/api/v1/chat/completions", {
+    const completion = await fetch("/api/chatgpt", {
       method: "POST",
       headers: {
-        //@ts-ignore
-        Authorization: `Bearer ${import.meta.env.VITE_API_KEY}`,
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
-        model: "gpt-4o-mini",
-        messages: [{ role: "user", content: text }],
+        text: text,
       }),
     });
-    // const completion = await openai.chat.completions.create({
-    //   model: "gpt-4o-mini",
-    //   messages: [
-    //     {
-    //       role: "user",
-    //       content: text,
-    //     },
-    //   ],
-    //   store: true,
-    // });
-    //@ts-ignore
-    return completion.choices[0].message.content as string;
+
+    if (!completion.ok) {
+      throw new Error("Failed to get response from API");
+    }
+
+    const data = await completion.json();
+    return data.message;
   } catch (error: any) {
     if (error.response && error.response.status === 429) {
       console.log("Too many requests. Retrying...");

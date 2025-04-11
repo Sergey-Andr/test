@@ -111,6 +111,7 @@ export default function App() {
     setIsResponseLoading(true);
 
     const response = await useChatMutation(text);
+    console.log(response);
     // let response = "Бубубу";
     // await new Promise((res) => {
     //   setTimeout(() => {
