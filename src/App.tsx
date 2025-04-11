@@ -109,13 +109,13 @@ export default function App() {
     ]);
     setIsResponseLoading(true);
 
-    // const response = await useChatMutation(text);
-    let response = "Бубубу";
-    await new Promise((res) => {
-      setTimeout(() => {
-        res();
-      }, 1000);
-    });
+    const response = await useChatMutation(text);
+    // let response = "Бубубу";
+    // await new Promise((res) => {
+    //   setTimeout(() => {
+    //     res();
+    //   }, 1000);
+    // });
 
     setIsResponseLoading(false);
 
