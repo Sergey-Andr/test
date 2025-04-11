@@ -214,7 +214,7 @@ export default function App() {
         <div className="flex items-center w-full h-fit mb-4 p-4 rounded-2xl hover:bg-neutral-600/30 duration-100 cursor-pointer">
           <img
             //@ts-ignore
-            src={`${import.meta.env.BASE_URL}chatgpt.png`}
+            src={`/chatgpt.png`}
             className="w-10 h-10 border border-neutral-600 rounded-full p-1"
           />
           <p
@@ -286,7 +286,7 @@ export default function App() {
 
             <img
               //@ts-ignore
-              src={`${import.meta.env.BASE_URL}logo.svg`}
+              src={`/logo.svg`}
               className="h-10 w-10 mr-4 select-none"
             />
             <p className="text-2xl">Aish</p>
